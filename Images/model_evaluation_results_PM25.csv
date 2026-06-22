@@ -1,0 +1,3 @@
+Model,RMSE,MAE,R²
+Random Forest Regressor,2.0974,1.0333,0.7527
+Gradient Boosting Regressor,2.2711,1.2622,0.7101

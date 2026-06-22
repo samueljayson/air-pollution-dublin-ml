@@ -1,0 +1,3087 @@
+Feature,Importance
+osm_layer,0.38379305011478265
+NO_ugm3,0.18285544189036
+NO2_ugm3,0.1331822900243785
+CO2_mgm3,0.08228300727422423
+longitude,0.03958375148752586
+osm_id,0.025853209298052203
+CO_mgm3,0.023807027298970326
+NOpoints,0.022598069177672077
+latitude,0.02183192170458942
+O3points,0.016108201261441215
+NO2points,0.006969923567846653
+osm_name_Whitebank Road,0.006277297607971492
+COpoints,0.004916252383500797
+O3_ugm3,0.004743859331339056
+osm_fclass_residential,0.004159052975512078
+osm_fclass_unclassified,0.002721786450280232
+osm_maxspeed,0.002496009296218567
+osm_name_Brookville Park,0.0024260215507664385
+osm_name_South Bank Road,0.0023824781600931657
+O3drives,0.0017874583612105235
+osm_name_Pigeon House Road,0.0015754256620868403
+PM25drives,0.0015673427202463276
+NOdrives,0.0014325302768067858
+COdrives,0.0012559121783602978
+PM25points,0.0011855678411201614
+osm_code,0.001145456050649076
+osm_name_Dublin Port Tunnel,0.001058827116890691
+osm_name_Stephen's Road,0.0009857658315333348
+osm_name_Ash Street,0.0009379835551334223
+osm_name_Rialto Drive,0.0008263931998416876
+osm_name_Sheriff Street Upper,0.0007657295181853942
+osm_name_Belmayne,0.0007343232479608236
+osm_name_Grosvenor Court,0.0006820164747136547
+osm_name_Corrib Road,0.0006306745557274873
+osm_name_Bond Drive Extension,0.0006240198422287545
+osm_name_Kylemore Industrial Estate,0.0006096148183460138
+osm_name_Terminal Road South,0.0005412885591001706
+osm_name_O'Leary Road,0.0005350485783858583
+CO2points,0.0005345354372644758
+osm_name_Ayrfield Court,0.0004931525184941447
+osm_name_Tolka Quay Road,0.00048252022545929946
+NO2drives,0.00047850010993055313
+osm_name_Rathmore Villas,0.00041686999053802036
+osm_name_Green Street East,0.0004148151293565046
+osm_name_Belton Park Gardens,0.0004108530823290118
+osm_name_Herberton Drive,0.0004050502744642252
+osm_name_Grosvenor Road,0.0003924561436055729
+CO2drives,0.00037732732418956506
+osm_name_Custom House Quay,0.0003761505818750536
+osm_name_Reuben Avenue,0.00035696306191281295
+osm_ref_R131,0.0003440143170826136
+osm_ref_R139,0.0003160467244581501
+osm_name_Broome Lodge,0.00031061899007840964
+osm_ref_R810,0.0002992923425822882
+osm_name_Sean Moore Road,0.00028829026589922605
+osm_name_Maryville Road,0.0002762875972582925
+osm_name_Claremont Park,0.000253298834727296
+osm_name_Lawrence Grove,0.00024129245283249282
+osm_name_Robinhood Road,0.00021710788112211624
+osm_name_Blackhorse Grove,0.00021370208556194408
+osm_name_Bunratty Road,0.00021007789116796494
+osm_name_Saint Brendan's Drive,0.00021007679809828834
+osm_fclass_motorway,0.00017523610449385096
+osm_name_Malpas Terrace,0.0001747232420936914
+osm_name_Kickham Road,0.0001726177440700894
+osm_name_Laburnum Square,0.0001651352508034425
+osm_name_Tonlegee Road,0.00015267014689383134
+osm_name_New Wapping Street,0.00013829493919075716
+osm_name_St Luke's Avenue,0.00013639352149687688
+osm_name_Harcourt Terrace Lane,0.00013488414065228948
+osm_name_Davitt Road,0.00013253213979322445
+osm_name_Portland Close,0.00013063449402068582
+osm_ref_M50,0.00013025321200911818
+osm_name_Kilbarron Drive,0.00012944975955033467
+osm_name_Shandon Mill,0.00012802928270797508
+osm_name_Muirfield Drive,0.00012736571181933424
+osm_name_Cromcastle Green,0.00012584903961743396
+osm_name_Airport Motorway,0.00011673876355879796
+osm_name_Comyn Place,0.00010469977602466328
+osm_name_Geoffrey Keating Road,7.480352342130552e-05
+osm_name_Coolrua Drive,7.425164592874933e-05
+osm_name_McAuley Drive,7.284723483468867e-05
+osm_name_Cork Street,7.213854295825196e-05
+osm_name_Holly Road,7.085878975369668e-05
+osm_name_Dartmouth Walk,7.006951856067679e-05
+osm_name_Charlemont,6.703990499572058e-05
+osm_fclass_secondary,5.5509892581917185e-05
+osm_name_Vavasour Square,4.696780313345396e-05
+osm_name_Turlough Gardens,4.683909922485601e-05
+osm_name_Beechlawn Grove,4.68387972656457e-05
+osm_name_Ratoath Estate,4.5244579794649014e-05
+osm_name_Casino at Marino,4.47847824863893e-05
+osm_name_Marlborough Mews,4.475666247332427e-05
+osm_name_Verschoyle Court,4.472889425371463e-05
+osm_name_Merton Park,4.4644518981913395e-05
+osm_name_Brookfield Road,4.455940228653921e-05
+osm_name_Sandford Gardens,4.4176741127679875e-05
+osm_name_Beaupark Street,4.3934678745645005e-05
+osm_name_Cathedral Court,4.3286867346824434e-05
+osm_fclass_service,4.293237749851281e-05
+osm_name_Stillorgan Road,4.269672182346895e-05
+osm_name_Clonliffe Avenue,4.2543768150532544e-05
+osm_name_Knockmaroon Road,3.9691438894715517e-05
+osm_name_South Dock Road,3.4899107855395255e-05
+osm_name_Parnell Road,2.163766594823731e-05
+osm_name_Botanic Road,2.1537439867200607e-05
+osm_name_Donnybrook Manor,2.1491905507276055e-05
+osm_name_Francis Street,2.123838544257827e-05
+osm_name_Allingham Street,2.1071678432992374e-05
+osm_name_Charlemont Place,2.103364555028982e-05
+osm_name_Tyrconnell Road,6.107370512007127e-06
+osm_oneway_F,4.122432365009944e-11
+osm_name_Ormond Road,0.0
+osm_name_Ormond Square,0.0
+osm_name_Ormond Street,0.0
+osm_name_Orr's Terrace,0.0
+osm_name_Orwell Bank,0.0
+osm_name_Orwell House,0.0
+osm_name_Orwell Mews,0.0
+osm_name_Orwell Park,0.0
+osm_name_New Row South,0.0
+osm_name_Orwell Road,0.0
+osm_name_Oscar Square,0.0
+osm_name_Oscar Traynor Road,0.0
+osm_name_Ossory Road,0.0
+osm_name_Oswald Road,0.0
+osm_name_Oulton Road,0.0
+osm_name_Our Lady's Close,0.0
+osm_name_New Row Square,0.0
+osm_name_Oldtown Park,0.0
+osm_name_Oliver Bond Street,0.0
+osm_name_Oliver Plunkett Avenue,0.0
+osm_name_Newbury Avenue,0.0
+osm_name_Olney Crescent,0.0
+osm_name_Newbrook Road,0.0
+osm_name_Ontario Court,0.0
+osm_name_Ontario Terrace,0.0
+osm_name_Orchard Lane,0.0
+osm_name_Our Lady's Road,0.0
+osm_name_Orchard Road,0.0
+osm_name_Ordnance Survey Road,0.0
+osm_name_Oriel Hall,0.0
+osm_name_Newbridge Avenue,0.0
+osm_name_Oriel Street Lower,0.0
+osm_name_Oriel Street Upper,0.0
+osm_name_New Street South,0.0
+osm_name_Ormond Quay Lower,0.0
+osm_name_Ormond Quay Upper,0.0
+osm_name_Newbrook Avenue,0.0
+osm_name_Park Terrace North,0.0
+osm_name_Park Terrace South,0.0
+osm_name_Park View,0.0
+osm_name_Park West Avenue,0.0
+osm_name_Park West Road,0.0
+osm_name_Neville Road,0.0
+osm_name_Park row,0.0
+osm_name_Parker Hill,0.0
+osm_name_Parkgate Place,0.0
+osm_name_Ovoca Road,0.0
+osm_name_Parkgate Street,0.0
+osm_name_Parkside Avenue,0.0
+osm_name_Parkside Court,0.0
+osm_name_Parkside Way,0.0
+osm_name_Parkview,0.0
+osm_name_Parkview Avenue,0.0
+osm_name_Parliament Street,0.0
+osm_name_Parnell Avenue,0.0
+osm_name_Nelson Street,0.0
+osm_name_Parnell Bridge,0.0
+osm_name_Nerney's Court,0.0
+osm_name_Old Naas Road,0.0
+osm_name_Owensilla Terrace,0.0
+osm_name_Oxford Road,0.0
+osm_name_Oxmantown Lane,0.0
+osm_name_Oxmantown Road,0.0
+osm_name_Palmerston Gardens,0.0
+osm_name_New Ireland Road,0.0
+osm_name_Palmerston Park,0.0
+osm_name_Palmerston Place,0.0
+osm_name_Palmerston Road,0.0
+osm_name_New Bride Street,0.0
+osm_name_Paradise Place,0.0
+osm_name_Park Avenue,0.0
+osm_name_Park Crescent,0.0
+osm_name_Park Drive,0.0
+osm_name_New Church Street,0.0
+osm_name_Park Lane,0.0
+osm_name_Park Lawn,0.0
+osm_name_Park Springs,0.0
+osm_name_New Bridge (Kylemore Road),0.0
+osm_name_New Bridge,0.0
+osm_name_Palmerston Villas,0.0
+osm_name_North Wall Quay,0.0
+osm_name_Northbrook Avenue,0.0
+osm_name_Northbrook Avenue Lower,0.0
+osm_name_Newport Street,0.0
+osm_name_Northbrook Road,0.0
+osm_name_Northern Cross Route,0.0
+osm_name_Northland Drive,0.0
+osm_name_Northland Grove,0.0
+osm_name_Northside Shopping Centre Car Park,0.0
+osm_name_Old Kilmainham Village,0.0
+osm_name_Newmarket Street,0.0
+osm_name_Northumberland Road,0.0
+osm_name_Newmarket,0.0
+osm_name_Nortons Avenue,0.0
+osm_name_Nottingham Street,0.0
+osm_name_Number 1 Branch Road North,0.0
+osm_name_Number 2 Branch Road North,0.0
+osm_name_Number 2 Branch Road North Extension,0.0
+osm_name_Nutley Avenue,0.0
+osm_name_Nutley Lane,0.0
+osm_name_Northumberland Court,0.0
+osm_name_Nicholas Street,0.0
+osm_name_Noel Purcell Walk,0.0
+osm_name_Nicholas Avenue,0.0
+osm_name_Nore Road,0.0
+osm_name_Norfolk Road,0.0
+osm_name_Norseman Place,0.0
+osm_name_Newtown Way,0.0
+osm_name_North Bull Wall,0.0
+osm_name_North Circular Road,0.0
+osm_name_Newtown Avenue,0.0
+osm_name_North Great Clarence Street,0.0
+osm_name_North Great George's Street,0.0
+osm_name_Newtown Road,0.0
+osm_name_North King Street,0.0
+osm_name_North Lotts,0.0
+osm_name_North Richmond Street,0.0
+osm_name_North Road,0.0
+osm_name_North Strand Road,0.0
+osm_name_North Wall Avenue,0.0
+osm_name_Newtown Park,0.0
+osm_name_North Frederick Street,0.0
+osm_name_Newgrange Road,0.0
+osm_name_Oak Road,0.0
+osm_name_Oakbury,0.0
+osm_name_Oaklands Crescent,0.0
+osm_name_Oaklands Drive,0.0
+osm_name_Newcomen Bridge,0.0
+osm_name_Oaklands Park,0.0
+osm_name_Newcomen Avenue,0.0
+osm_name_Oakley Road,0.0
+osm_name_Nutley Park,0.0
+osm_name_Oakwood Road,0.0
+osm_name_Odd Lamp Road,0.0
+osm_name_Newbury Wood,0.0
+osm_name_Offaly Road,0.0
+osm_name_Old Abbey Street,0.0
+osm_name_Old Cabra Road,0.0
+osm_name_Old County Road,0.0
+osm_name_Old Finglas Road,0.0
+osm_name_Old Kilmainham,0.0
+osm_name_Old Malahide Road,0.0
+osm_name_Oakpark Estate,0.0
+osm_name_Nutley Road,0.0
+osm_name_O'Brien Road,0.0
+osm_name_O'Brien's Place,0.0
+osm_name_O'Carolan Road,0.0
+osm_name_O'Connell Avenue,0.0
+osm_name_O'Connell Bridge,0.0
+osm_name_O'Connell Street Lower,0.0
+osm_name_O'Connell Street Upper,0.0
+osm_name_O'Curry Avenue,0.0
+osm_name_Newgrove Avenue,0.0
+osm_name_O'Sullivan Avenue,0.0
+osm_name_O'Daly Road,0.0
+osm_name_O'Devaney Gardens,0.0
+osm_name_O'Donoghue Street,0.0
+osm_name_O'Donovan Road,0.0
+osm_name_O'Donovan Rossa Bridge,0.0
+osm_name_O'Hara Avenue,0.0
+osm_name_O'Hogan Road,0.0
+osm_name_Adare Avenue,0.0
+osm_name_O'Moore Road,0.0
+osm_name_O'Neachtain Road,0.0
+osm_name_O'Curry Road,0.0
+osm_name_Rathdown Park,0.0
+osm_name_Rathdown Road,0.0
+osm_name_Rathdown Villas,0.0
+osm_name_Rathdrum Road,0.0
+osm_name_Rathfarnham Road,0.0
+osm_name_Rathgar Avenue,0.0
+osm_name_Rathgar Place,0.0
+osm_name_Rathgar Road,0.0
+osm_name_Rathgar Villas,0.0
+osm_name_Rathlin Road,0.0
+osm_name_Nephin Road,0.0
+osm_name_Rathmines Park,0.0
+osm_name_Rathmines Road Lower,0.0
+osm_name_Rathmines Road Upper,0.0
+osm_name_Achill Road,0.0
+osm_name_Rathvale Drive,0.0
+osm_name_Rathvale Grove,0.0
+osm_name_Rathvale Park,0.0
+osm_name_Rathvilly Road,0.0
+osm_name_Ratoath Avenue,0.0
+osm_name_Ratoath Drive,0.0
+osm_name_Ratoath Road,0.0
+osm_name_Rathmines Avenue,0.0
+osm_name_Raheny Road,0.0
+osm_name_Raheny Wood,0.0
+osm_name_Railway Mews,0.0
+osm_name_Railway Road,0.0
+osm_name_Railway Street,0.0
+osm_name_Rainsford Street,0.0
+osm_name_Raleigh Square,0.0
+osm_name_Ramillies Road,0.0
+osm_name_Ramleh Park,0.0
+osm_name_Rampart Lane,0.0
+osm_name_Ranelagh,0.0
+osm_name_Rathdown Drive,0.0
+osm_name_Ranelagh Mews,0.0
+osm_name_Ranelagh Road,0.0
+osm_name_Raphoe Road,0.0
+osm_name_Rathborne Avenue,0.0
+osm_name_Rathborne Close,0.0
+osm_name_Rathborne Drive,0.0
+osm_name_Rathborne Grove,0.0
+osm_name_Rathborne Place,0.0
+osm_name_Rathborne Way,0.0
+osm_name_Rathdown Avenue,0.0
+osm_name_Rathdown Crescent,0.0
+osm_name_Ranelagh Avenue,0.0
+osm_name_Richmond Place South,0.0
+osm_name_Richmond Road,0.0
+osm_name_Richmond Row,0.0
+osm_name_Richmond Street South,0.0
+osm_name_Richview Park,0.0
+osm_name_Ring Street,0.0
+osm_name_Ring Terrace,0.0
+osm_name_Ringsend Road,0.0
+osm_name_Rise Mews,0.0
+osm_name_River Gardens,0.0
+osm_name_Ratra Road,0.0
+osm_name_Riverside Apartments,0.0
+osm_name_Riverside Avenue,0.0
+osm_name_Riverside Drive,0.0
+osm_name_Riverside Grove,0.0
+osm_name_Riverside Park,0.0
+osm_name_Riverside Road,0.0
+osm_name_Robert Emmet Bridge,0.0
+osm_name_Robert Place,0.0
+osm_name_Robert Street,0.0
+osm_name_Abbeyvale,0.0
+osm_name_Roger's Lane,0.0
+osm_name_River Road,0.0
+osm_name_Ravensdale Drive,0.0
+osm_name_Ravensdale Park,0.0
+osm_name_Ravensdale Road,0.0
+osm_name_Raymond Street,0.0
+osm_name_Red Cow Lane,0.0
+osm_name_Redcourt Oaks,0.0
+osm_name_Redmonds Hill,0.0
+osm_name_Reginald Square,0.0
+osm_name_Reginald Street,0.0
+osm_name_Rehoboth Place,0.0
+osm_name_Aberdeen Street,0.0
+osm_name_Richmond Mews,0.0
+osm_name_Reuben Walk,0.0
+osm_name_Rialto Bridge,0.0
+osm_name_Abercorn Road,0.0
+osm_name_Rialto Street,0.0
+osm_name_Ribh Avenue,0.0
+osm_name_Ribh Road,0.0
+osm_name_Richmond Avenue,0.0
+osm_name_Richmond Avenue South,0.0
+osm_name_Richmond Cottages North,0.0
+osm_name_Richmond Estate,0.0
+osm_name_Richmond Hill,0.0
+osm_name_Reuben Street,0.0
+osm_name_Percy French Road,0.0
+osm_name_Percy Lane,0.0
+osm_name_Percy Place,0.0
+osm_name_Peter Place,0.0
+osm_name_Peter Street,0.0
+osm_name_Peter's Row,0.0
+osm_name_Peterson's Court,0.0
+osm_name_Phelan Park,0.0
+osm_name_Phibsboro Shopping Centre,0.0
+osm_name_Phibsborough,0.0
+osm_name_Raheny Park,0.0
+osm_name_Philipsburgh Avenue,0.0
+osm_name_Philipsburgh Terrace,0.0
+osm_name_Phoenix Lane,0.0
+osm_name_Phoenix Manor,0.0
+osm_name_Phoenix Street North,0.0
+osm_name_Adair Lane,0.0
+osm_name_Pim Street,0.0
+osm_name_Pimlico,0.0
+osm_name_Pine Road,0.0
+osm_name_Pinebrook Drive,0.0
+osm_name_Pinewood Avenue,0.0
+osm_name_Phibsborough Road,0.0
+osm_name_Parnell Place,0.0
+osm_name_Parnell Square East,0.0
+osm_name_Parnell Square North,0.0
+osm_name_Parnell Square West,0.0
+osm_name_Parnell Street,0.0
+osm_name_Patrick Street,0.0
+osm_name_Patrickswell Place,0.0
+osm_name_Paul Street,0.0
+osm_name_Pearse College,0.0
+osm_name_Pearse Grove,0.0
+osm_name_Pearse House,0.0
+osm_name_Penrose Street,0.0
+osm_name_Pearse Street,0.0
+osm_name_Pembroke Cottages,0.0
+osm_name_Pembroke Gardens,0.0
+osm_name_Pembroke Lane,0.0
+osm_name_Pembroke Park,0.0
+osm_name_Pembroke Place,0.0
+osm_name_Pembroke Road,0.0
+osm_name_Pembroke Row,0.0
+osm_name_Pembroke Street,0.0
+osm_name_Pembroke Street Lower,0.0
+osm_name_Pembroke Street Upper,0.0
+osm_name_Pearse Square,0.0
+osm_name_Primrose Street,0.0
+osm_name_Prince of Wales Terrace,0.0
+osm_name_Prince's Street South,0.0
+osm_name_Priorswood Road,0.0
+osm_name_Priory Road,0.0
+osm_name_Promenade Road,0.0
+osm_name_Prospect Avenue,0.0
+osm_name_Prospect Road,0.0
+osm_name_Prospect Square,0.0
+osm_name_Prospect Way,0.0
+osm_name_Pinewood Crescent,0.0
+osm_name_Prussia Street,0.0
+osm_name_Purser Gardens,0.0
+osm_name_Quarry Road,0.0
+osm_name_Queen Street,0.0
+osm_name_Quinn's Lane,0.0
+osm_name_Radeliff Hall,0.0
+osm_name_Rafter's Lane,0.0
+osm_name_Rafter's Road,0.0
+osm_name_Raglan Lane,0.0
+osm_name_Raglan Road,0.0
+osm_name_Raheen Park,0.0
+osm_name_Proud's Lane,0.0
+osm_name_Pinewood Drive,0.0
+osm_name_Pleasants Lane,0.0
+osm_name_Pleasants Place,0.0
+osm_name_Pleasants Street,0.0
+osm_name_Plunkett Avenue,0.0
+osm_name_Plunkett Green,0.0
+osm_name_Poddle Close,0.0
+osm_name_Poddle Park,0.0
+osm_name_Poolbeg Street,0.0
+osm_name_Poplar Row,0.0
+osm_name_Poppintree Parade,0.0
+osm_name_Primrose Grove,0.0
+osm_name_Portland Place,0.0
+osm_name_Portland Row,0.0
+osm_name_Portland Street North,0.0
+osm_name_Portobello Harbour,0.0
+osm_name_Portobello Road,0.0
+osm_name_Portside Court,0.0
+osm_name_Power's Court,0.0
+osm_name_Powerscourt,0.0
+osm_name_Preston Street,0.0
+osm_name_Price's Lane,0.0
+osm_name_Primrose Avenue,0.0
+osm_name_Poppintree Park Road,0.0
+osm_name_Longwood Avenue,0.0
+osm_name_Lorcan Avenue,0.0
+osm_name_Lorcan Crescent,0.0
+osm_name_Lorcan Drive,0.0
+osm_name_Lorcan Green,0.0
+osm_name_Lorcan O'Toole Park,0.0
+osm_name_Lorcan Road,0.0
+osm_name_Lord Edward Street,0.0
+osm_name_Loreto Road,0.0
+osm_name_Louis Lane,0.0
+osm_name_Robinson's Court,0.0
+osm_name_Love Lane East,0.0
+osm_name_Luby Road,0.0
+osm_name_Lucan Road,0.0
+osm_name_Lucky Lane,0.0
+osm_name_Luke Kelly Bridge,0.0
+osm_name_Luke Street,0.0
+osm_name_Lullymore Terrace,0.0
+osm_name_Lurgan Street,0.0
+osm_name_Lyndon Gate,0.0
+osm_name_Mabbot Lane,0.0
+osm_name_Mabel Street,0.0
+osm_name_Love Lane,0.0
+osm_name_Liscannor Road,0.0
+osm_name_Lisle Road,0.0
+osm_name_Lismore Road,0.0
+osm_name_Lissadel Avenue,0.0
+osm_name_Lissadel Court,0.0
+osm_name_Lissadel Road,0.0
+osm_name_Little Britain Street,0.0
+osm_name_Little Green Street,0.0
+osm_name_Little Strand Street,0.0
+osm_name_Litton Lane,0.0
+osm_name_Loftus Lane,0.0
+osm_name_Longford Street Little,0.0
+osm_name_Lombard Street East,0.0
+osm_name_Lombard Street West,0.0
+osm_name_Lomond Avenue,0.0
+osm_name_London Bridge,0.0
+osm_name_Londonbridge Road,0.0
+osm_name_Long Lane,0.0
+osm_name_Long Mile Road,0.0
+osm_name_Long's Place,0.0
+osm_name_Longdale Terrace,0.0
+osm_name_Longford Bridge,0.0
+osm_name_Longford Street Great,0.0
+osm_name_Lombard Court,0.0
+osm_name_Marine Drive,0.0
+osm_name_Marine School Walk,0.0
+osm_name_Marino Avenue,0.0
+osm_name_Marino Green,0.0
+osm_name_Marino Mart,0.0
+osm_name_Marino Park,0.0
+osm_name_Marino Park Avenue,0.0
+osm_name_Marion Villas,0.0
+osm_name_Mark Street,0.0
+osm_name_Mark's Alley West,0.0
+osm_name_MacMahon Bridge,0.0
+osm_name_Market Street South,0.0
+osm_name_Marlborough Place,0.0
+osm_name_Marlborough Road,0.0
+osm_name_Marlborough Street,0.0
+osm_name_Marne Villas,0.0
+osm_name_Marrowbone Lane,0.0
+osm_name_Marrowbone Lane Close,0.0
+osm_name_Martello Mews,0.0
+osm_name_Martello View,0.0
+osm_name_Martin Savage Park,0.0
+osm_name_Martin Street,0.0
+osm_name_Mark's Lane,0.0
+osm_name_Macken Street,0.0
+osm_name_Macquay's Bridge,0.0
+osm_name_Macroom Avenue,0.0
+osm_name_Madden Road,0.0
+osm_name_Madden's Court,0.0
+osm_name_Magennis Place,0.0
+osm_name_Magennis Square,0.0
+osm_name_Magenta Crescent,0.0
+osm_name_Magenta Hall,0.0
+osm_name_Maiden Row,0.0
+osm_name_Main Street,0.0
+osm_name_Marguerite Road,0.0
+osm_name_Mallin Avenue,0.0
+osm_name_Malpas Street,0.0
+osm_name_Adare Green,0.0
+osm_name_Mangerton Road,0.0
+osm_name_Mannix Road,0.0
+osm_name_Manor House View,0.0
+osm_name_Manor Place,0.0
+osm_name_Manor Street,0.0
+osm_name_Maolbuille Road,0.0
+osm_name_Marewood Crescent,0.0
+osm_name_Margaret Place,0.0
+osm_name_Malahide Road,0.0
+osm_name_LANSDOWNE SQUARE,0.0
+osm_name_La Touche Bridge,0.0
+osm_name_La Touche Road,0.0
+osm_name_La Vista Avenue,0.0
+osm_name_Lad Lane,0.0
+osm_name_Lady's Lane,0.0
+osm_name_Lagan Road,0.0
+osm_name_Lakelands Park,0.0
+osm_name_Lally Road,0.0
+osm_name_Lamb Alley,0.0
+osm_name_Linenhall Terrace,0.0
+osm_name_Landen Road,0.0
+osm_name_Lansdowne Lane,0.0
+osm_name_Lansdowne Park,0.0
+osm_name_Lansdowne Road,0.0
+osm_name_Lansdowne Village,0.0
+osm_name_Laracor Gardens,0.0
+osm_name_Larch Grove,0.0
+osm_name_Larkfield Avenue,0.0
+osm_name_Larkfield Gardens,0.0
+osm_name_Larkfield Grove,0.0
+osm_name_Larkfield Park,0.0
+osm_name_Lambay Road,0.0
+osm_name_Kincora Grove,0.0
+osm_name_Kincora Walk,0.0
+osm_name_King's Inn's Street,0.0
+osm_name_King's Inns Court,0.0
+osm_name_Kingram Place,0.0
+osm_name_Kingsland Parade,0.0
+osm_name_Kingsland Park Avenue,0.0
+osm_name_Kingston Lodge,0.0
+osm_name_Kinvara Avenue,0.0
+osm_name_Kirwan Street,0.0
+osm_name_Kirwan Street Cottages,0.0
+osm_name_Kylemore Way,0.0
+osm_name_Knockmaroon Hill,0.0
+osm_name_Knocknarea Avenue,0.0
+osm_name_Knocknarea Road,0.0
+osm_name_Knowth Court,0.0
+osm_name_Kylemore Avenue,0.0
+osm_name_Kylemore Drive,0.0
+osm_name_Adare Road,0.0
+osm_name_Kylemore Park North,0.0
+osm_name_Kylemore Park South,0.0
+osm_name_Kylemore Park West,0.0
+osm_name_Kylemore Road,0.0
+osm_name_Knockmaree,0.0
+osm_name_Leinster Road,0.0
+osm_name_Leinster Road West,0.0
+osm_name_Leinster Square,0.0
+osm_name_Leinster Street East,0.0
+osm_name_Leinster Street North,0.0
+osm_name_Leinster Street South,0.0
+osm_name_Leix Road,0.0
+osm_name_Lennox Place,0.0
+osm_name_Lennox Street,0.0
+osm_name_Lennox Terrace,0.0
+osm_name_Larkhill Road,0.0
+osm_name_Leo Street,0.0
+osm_name_Liam Whelan Bridge,0.0
+osm_name_Liberty House,0.0
+osm_name_Liberty Lane,0.0
+osm_name_Liffey Street Lower,0.0
+osm_name_Liffey Street West,0.0
+osm_name_Lime Street,0.0
+osm_name_Lincoln Lane,0.0
+osm_name_Lincoln Place,0.0
+osm_name_Lindsay Road,0.0
+osm_name_Linenhall Street,0.0
+osm_name_Leo Avenue,0.0
+osm_name_Laurence Court,0.0
+osm_name_Lavarna Grove,0.0
+osm_name_Adare Park,0.0
+osm_name_Lazer Lane,0.0
+osm_name_Le Bas Terrace,0.0
+osm_name_Le Fanu Road,0.0
+osm_name_Le Vere Terrace,0.0
+osm_name_Lea Crescent,0.0
+osm_name_Lea Road,0.0
+osm_name_Leahy's Terrace,0.0
+osm_name_Lee Road,0.0
+osm_name_Leinster Park,0.0
+osm_name_Leeson Park,0.0
+osm_name_Leeson Street Lower,0.0
+osm_name_Leeson Street Upper,0.0
+osm_name_Leeson Village,0.0
+osm_name_Leicester Avenue,0.0
+osm_name_Leighlin Road,0.0
+osm_name_Lein Gardens,0.0
+osm_name_Lein Park,0.0
+osm_name_Lein Road;Ribh Avenue,0.0
+osm_name_Leinster Avenue,0.0
+osm_name_Leinster Market,0.0
+osm_name_Leeson Lane,0.0
+osm_name_Montpellier Drive,0.0
+osm_name_Montrose Avenue,0.0
+osm_name_Montrose Crescent,0.0
+osm_name_Montrose Grove,0.0
+osm_name_Montrose Park,0.0
+osm_name_Moore Lane,0.0
+osm_name_Moran's Cottages,0.0
+osm_name_Morehampton Lane,0.0
+osm_name_Morehampton Road,0.0
+osm_name_Morehampton Terrace,0.0
+osm_name_Martin's Row,0.0
+osm_name_Mornington Grove,0.0
+osm_name_Mornington Park,0.0
+osm_name_Morrogh Terrace,0.0
+osm_name_Moss Street,0.0
+osm_name_Mount Argus Grove,0.0
+osm_name_Mount Argus Road,0.0
+osm_name_Mount Argus View,0.0
+osm_name_Mount Brown,0.0
+osm_name_Mount Drummond Avenue,0.0
+osm_name_Mount Drummond Court,0.0
+osm_name_Mount Drummond Square,0.0
+osm_name_Morning Star Avenue,0.0
+osm_name_Millmount Villas,0.0
+osm_name_Milltown Hill,0.0
+osm_name_Milltown Path,0.0
+osm_name_Milltown Road,0.0
+osm_name_Millwood Park,0.0
+osm_name_Millwood Villas,0.0
+osm_name_Milner's Square,0.0
+osm_name_Misery Hill,0.0
+osm_name_Moat Lane,0.0
+osm_name_Moatfield Avenue,0.0
+osm_name_Moatfield Park,0.0
+osm_name_Montpelier Hill,0.0
+osm_name_Moatview Drive,0.0
+osm_name_Moeran Road,0.0
+osm_name_Moira Road,0.0
+osm_name_Moland Place,0.0
+osm_name_Molesworth Place,0.0
+osm_name_Molesworth Street,0.0
+osm_name_Monasterboice Road,0.0
+osm_name_Monck Place,0.0
+osm_name_Montague Lane,0.0
+osm_name_Montague Street,0.0
+osm_name_Montpelier Gardens,0.0
+osm_name_Moatfield Road,0.0
+osm_name_Mountpleasant Parade,0.0
+osm_name_Mountpleasant Place,0.0
+osm_name_Mountpleasant Terrace,0.0
+osm_name_Mountshannon Road,0.0
+osm_name_Mourne Road,0.0
+osm_name_Moy Ellta Road,0.0
+osm_name_Moyle Road,0.0
+osm_name_Moyne Road,0.0
+osm_name_Muckross Parade,0.0
+osm_name_Mulberry Lane,0.0
+osm_name_Mount Eden Road,0.0
+osm_name_Mulroy Road,0.0
+osm_name_Munster Street,0.0
+osm_name_Murtagh Road,0.0
+osm_name_Muskerry Road,0.0
+osm_name_Myrtle Street,0.0
+osm_name_Naas Road,0.0
+osm_name_Nash Street,0.0
+osm_name_Nassau Street,0.0
+osm_name_Naul Road,0.0
+osm_name_Navan Road,0.0
+osm_name_Neagh Road,0.0
+osm_name_Mullinahack,0.0
+osm_name_Mount Olive Grove,0.0
+osm_name_Mount Olive Park,0.0
+osm_name_Mount Olive Road,0.0
+osm_name_Mount Prospect Avenue,0.0
+osm_name_Mount Prospect Drive,0.0
+osm_name_Mount Prospect Grove,0.0
+osm_name_Mount Prospect Lawns,0.0
+osm_name_Mount Prospect Park,0.0
+osm_name_Mount Saint Annes,0.0
+osm_name_Mount Sandford,0.0
+osm_name_Mount Street Crescent,0.0
+osm_name_Mountpleasant Avenue Upper,0.0
+osm_name_Mount Street Upper,0.0
+osm_name_Mount Tallant Avenue,0.0
+osm_name_Mountain View Avenue,0.0
+osm_name_Mountain View Road,0.0
+osm_name_Mountjoy Square East,0.0
+osm_name_Mountjoy Square North,0.0
+osm_name_Mountjoy Square South,0.0
+osm_name_Mountjoy Square West,0.0
+osm_name_Mountjoy Street,0.0
+osm_name_Mountjoy Street Middle,0.0
+osm_name_Mountpleasant Avenue Lower,0.0
+osm_name_Mount Street Lower,0.0
+osm_name_Mayor Street Upper,0.0
+osm_name_Maywood Avenue,0.0
+osm_name_Maywood Cresent,0.0
+osm_name_Maywood Drive,0.0
+osm_name_Maywood Park,0.0
+osm_name_Maywood Road,0.0
+osm_name_Mc Kelvey Road,0.0
+osm_name_McAuley Avenue,0.0
+osm_name_McAuley Park,0.0
+osm_name_McAuley Road,0.0
+osm_name_Millmount Terrace,0.0
+osm_name_McKee Park,0.0
+osm_name_McKee Road,0.0
+osm_name_McKelvey Avenue,0.0
+osm_name_McKenny's Bridge,0.0
+osm_name_McMorrough Road,0.0
+osm_name_Meade's Terrace,0.0
+osm_name_Meath Market,0.0
+osm_name_Meath Place,0.0
+osm_name_Meath Square,0.0
+osm_name_Meath Street,0.0
+osm_name_Mellowes Road,0.0
+osm_name_McKee Avenue,0.0
+osm_name_Mary Street,0.0
+osm_name_Mary Street Little,0.0
+osm_name_Mary's Abbey,0.0
+osm_name_Mary's Lane,0.0
+osm_name_Maryfield Crescent,0.0
+osm_name_Maryfield Drive,0.0
+osm_name_Adare Drive,0.0
+osm_name_Mask Avenue,0.0
+osm_name_Mask Crescent,0.0
+osm_name_Mask Drive,0.0
+osm_name_Mask Green,0.0
+osm_name_Mayor Street Lower,0.0
+osm_name_Matt Talbot Memorial Bridge,0.0
+osm_name_Maxwell Lane,0.0
+osm_name_Maxwell Road,0.0
+osm_name_May Lane,0.0
+osm_name_May Park,0.0
+osm_name_May Street,0.0
+osm_name_Mayeston Rise,0.0
+osm_name_Mayfield,0.0
+osm_name_Mayfield Road,0.0
+osm_name_Mayfield Road East,0.0
+osm_name_Mayne River Avenue,0.0
+osm_name_Mask Road,0.0
+osm_name_Merrion Street Upper,0.0
+osm_name_Merrion Wood,0.0
+osm_name_Merton Avenue,0.0
+osm_name_Merton Drive,0.0
+osm_name_Merton Road,0.0
+osm_name_Merville Avenue,0.0
+osm_name_Mespil Estate,0.0
+osm_name_Mespil Road,0.0
+osm_name_Middle Abbey Street,0.0
+osm_name_Middle Third,0.0
+osm_name_Mellows Bridge,0.0
+osm_name_Military Road,0.0
+osm_name_Mill Close,0.0
+osm_name_Mill Lane,0.0
+osm_name_Mill Street,0.0
+osm_name_Millbourne Avenue,0.0
+osm_name_Millbrook Avenue,0.0
+osm_name_Millbrook Court,0.0
+osm_name_Millbrook Drive,0.0
+osm_name_Millbrook Grove,0.0
+osm_name_Millbrook Road,0.0
+osm_name_Millmount Avenue,0.0
+osm_name_Midlde Third,0.0
+osm_name_Mellows Park,0.0
+osm_name_Melrose Avenue,0.0
+osm_name_Melrose Court,0.0
+osm_name_Melville Road,0.0
+osm_name_Melvin Road,0.0
+osm_name_Memorial Road,0.0
+osm_name_Mercer Street,0.0
+osm_name_Merchamp,0.0
+osm_name_Merchant's Quay,0.0
+osm_name_Merchant's Road,0.0
+osm_name_Merlyn Drive,0.0
+osm_name_Merrion Street Lower,0.0
+osm_name_Merlyn Road,0.0
+osm_name_Merrion Close,0.0
+osm_name_Merrion Court,0.0
+osm_name_Merrion Place,0.0
+osm_name_Merrion Road,0.0
+osm_name_Merrion Row,0.0
+osm_name_Merrion Square East,0.0
+osm_name_Merrion Square North,0.0
+osm_name_Merrion Square South,0.0
+osm_name_Merrion Square West,0.0
+osm_name_Merrion Strand,0.0
+osm_name_Merlyn Park,0.0
+osm_name_Trinity Street,0.0
+osm_name_Tritonville Court,0.0
+osm_name_Tritonville Crescent,0.0
+osm_name_Tritonville Road,0.0
+osm_name_Tudor Road,0.0
+osm_name_Tulip Court,0.0
+osm_name_Turlough Parade,0.0
+osm_name_Turvey Close,0.0
+osm_name_Tuscany Downs,0.0
+osm_name_Tyrconnell Park,0.0
+osm_name_Kincora Road,0.0
+osm_name_Ulster Street,0.0
+osm_name_Upper Abbey Street,0.0
+osm_name_Upper Fairview Avenue,0.0
+osm_name_Upper Glen Road,0.0
+osm_name_Usher Street,0.0
+osm_name_Usher's Island,0.0
+osm_name_Usher's Quay,0.0
+osm_name_Valentia Parade,0.0
+osm_name_Valentia Road,0.0
+osm_name_Ventry Drive,0.0
+osm_name_Ventry Park,0.0
+osm_name_Tyrrell Place,0.0
+osm_name_Thornville Drive,0.0
+osm_name_Thornville Road,0.0
+osm_name_Thornwood,0.0
+osm_name_Tivoli Avenue,0.0
+osm_name_Tolka Bridge,0.0
+osm_name_Tolka Estate,0.0
+osm_name_Tolka Estate Road,0.0
+osm_ref_R811,0.0
+osm_name_Tolka Road,0.0
+osm_name_Tolka Valley Road,0.0
+osm_name_Trim Road,0.0
+osm_name_Toll Bridge Road,0.0
+osm_name_Tom Clarke Bridge,0.0
+osm_name_Tom Clarke House,0.0
+osm_name_Tonguefield Road,0.0
+osm_name_Tonlegee Avenue,0.0
+osm_name_Tonlegee Drive,0.0
+osm_name_Tourmakeady Road,0.0
+osm_name_Tower Avenue,0.0
+osm_name_Tower Villa,0.0
+osm_name_Townsend Street,0.0
+osm_name_Tranquility Grove,0.0
+osm_name_Tolka Valley View,0.0
+osm_name_Wade's Avenue,0.0
+osm_name_Wadelai Road,0.0
+osm_name_Wainsfort Park,0.0
+osm_name_Walkinstown Avenue,0.0
+osm_name_Walkinstown Close,0.0
+osm_name_Walkinstown Drive,0.0
+osm_name_Walkinstown Green,0.0
+osm_name_Walkinstown Parade,0.0
+osm_name_Walkinstown Road,0.0
+osm_name_Walkinstown Roundabout,0.0
+osm_name_Ventry Road,0.0
+osm_name_Walnut Avenue,0.0
+osm_name_Walnut Rise,0.0
+osm_name_Walnut Walk,0.0
+osm_name_Walsh Road,0.0
+osm_name_Walworth Road,0.0
+osm_name_Wanderers F.C. Rugby Club,0.0
+osm_name_Wapping Street,0.0
+osm_name_Ward's Hill,0.0
+osm_name_Warner's Lane,0.0
+osm_name_Warren Street,0.0
+osm_name_Warrington Lane,0.0
+osm_name_Wallace Road,0.0
+osm_name_Vergemount Hall,0.0
+osm_name_Vergemount Park,0.0
+osm_name_Vernon Avenue,0.0
+osm_name_Vernon Drive,0.0
+osm_name_Vernon Gardens,0.0
+osm_name_Vernon Grove,0.0
+osm_name_Vernon Heath,0.0
+osm_name_Vernon Park,0.0
+osm_name_Vernon Rise,0.0
+osm_name_Verschoyle Place,0.0
+osm_name_Vicar Street,0.0
+osm_name_Violet HIll Drive,0.0
+osm_name_Victoria Lane,0.0
+osm_name_Victoria Quay,0.0
+osm_name_Victoria Road,0.0
+osm_name_Victoria Street,0.0
+osm_name_Victoria Villas,0.0
+osm_name_Villa Park Avenue,0.0
+osm_name_Villa Park Drive,0.0
+osm_name_Villa Park Gardens,0.0
+osm_name_Villa Park Road,0.0
+osm_name_Village Court,0.0
+osm_name_Villiers Road,0.0
+osm_name_Victoria Avenue,0.0
+osm_name_Tara Lawns,0.0
+osm_name_Tara Street,0.0
+osm_name_Taylor's Lane,0.0
+osm_name_Teeling Way,0.0
+osm_name_Temple Cottages,0.0
+osm_name_Temple Gardens,0.0
+osm_name_Temple Hill,0.0
+osm_name_Temple Lane North,0.0
+osm_name_Temple Park,0.0
+osm_name_Temple Road,0.0
+osm_name_Thornville Avenue,0.0
+osm_name_Temple Street North,0.0
+osm_name_Temple Street West,0.0
+osm_name_Templemore Avenue,0.0
+osm_name_Templeogue Road,0.0
+osm_name_Terenure Gate,0.0
+osm_name_Terenure Park,0.0
+osm_name_Terenure Place,0.0
+osm_name_Terenure Road East,0.0
+osm_name_Terenure Road North,0.0
+osm_name_Terenure Road West,0.0
+osm_name_Terenure Village Centre,0.0
+osm_name_Temple Square,0.0
+osm_name_Swan Place,0.0
+osm_name_Swans Nest Avenue,0.0
+osm_name_Swans Nest Road,0.0
+osm_name_Swanville Place,0.0
+osm_name_Swift's Alley,0.0
+osm_name_Swift's Row,0.0
+osm_name_Swilly Road,0.0
+osm_name_Swords Road,0.0
+osm_name_Sybil Hill Avenue,0.0
+osm_name_Sybil Hill Road,0.0
+osm_name_Talbot Street,0.0
+osm_name_Sycamore Street,0.0
+osm_name_Sydney Parade Avenue,0.0
+osm_name_Syndenham Road,0.0
+osm_name_Synge Lane,0.0
+osm_name_Synge Place,0.0
+osm_name_Synge Street,0.0
+osm_name_Synnott Place,0.0
+osm_name_Synnott Row,0.0
+osm_name_Taaffe's Place,0.0
+osm_name_Talbot Lane,0.0
+osm_name_Talbot Place,0.0
+osm_name_Sycamore Road,0.0
+osm_name_The Richmond,0.0
+osm_name_The Rise,0.0
+osm_name_The Square,0.0
+osm_name_The Steeples,0.0
+osm_name_The Stiles Road,0.0
+osm_name_The Thatch Road,0.0
+osm_name_The Timber Mill,0.0
+osm_name_The Turrets,0.0
+osm_name_The View,0.0
+osm_name_The Village,0.0
+osm_name_Terminal Road North,0.0
+osm_name_Third Avenue,0.0
+osm_name_Thomas Court,0.0
+osm_name_Thomas Davis Street,0.0
+osm_name_Thomas Lane,0.0
+osm_name_Thomas Moore Road,0.0
+osm_name_Thomas Street,0.0
+osm_name_Thomond Road,0.0
+osm_name_Thor Place,0.0
+osm_name_Thorncastle Street,0.0
+osm_name_Thorndale Court,0.0
+osm_name_Thorndale Drive,0.0
+osm_name_The Willows,0.0
+osm_fclass_tertiary_link,0.0
+osm_name_Terminal Road West,0.0
+osm_name_The Avenue,0.0
+osm_name_The Beeches,0.0
+osm_name_The Belfry,0.0
+osm_name_The Bogie's Roundabout,0.0
+osm_name_The Cloisters,0.0
+osm_name_The Coombe,0.0
+osm_name_The Court,0.0
+osm_name_The Crescent,0.0
+osm_name_The Frank Flood Bridge,0.0
+osm_name_The Paddock,0.0
+osm_name_The Haven,0.0
+osm_name_The Hole in the Wall Road,0.0
+osm_name_The Laurels,0.0
+osm_name_The Lawn,0.0
+osm_name_The Link Road,0.0
+osm_name_The Meadows,0.0
+osm_name_The Mews,0.0
+"osm_name_The Mews, 6 Tyrconnell Road",0.0
+osm_name_The Northumberlands,0.0
+osm_name_The Oaks,0.0
+osm_name_The Orchard,0.0
+osm_name_The Gasworks,0.0
+osm_name_York Road,0.0
+osm_name_York Street,0.0
+osm_name_Zion Road,0.0
+osm_ref_L1006,0.0
+osm_ref_L1014,0.0
+osm_ref_L1084,0.0
+osm_ref_L2145,0.0
+osm_ref_L2190,0.0
+osm_ref_L3031,0.0
+osm_ref_L3080,0.0
+osm_name_Warrington Place,0.0
+osm_ref_L4005,0.0
+osm_ref_L4021,0.0
+osm_ref_L4022,0.0
+osm_ref_L5704,0.0
+osm_ref_L8041,0.0
+osm_ref_L8107,0.0
+osm_ref_L8111,0.0
+osm_ref_L8145,0.0
+osm_ref_L8178,0.0
+osm_ref_L8422,0.0
+osm_ref_N2,0.0
+osm_ref_L3101,0.0
+osm_name_Winton Avenue,0.0
+osm_name_Winton Mews,0.0
+osm_name_Winton Road,0.0
+osm_name_Wolfe Tone Quay,0.0
+osm_name_Wolfe Tone Street,0.0
+osm_name_Wolseley Street,0.0
+osm_name_Wood Quay,0.0
+osm_name_Woodbine Park,0.0
+osm_name_Woodbine Road,0.0
+osm_name_Woodfield Avenue,0.0
+osm_name_Yellow Road,0.0
+osm_name_Woodhazel Terrace,0.0
+osm_name_Woodlands,0.0
+osm_name_Woodlawn Avenue,0.0
+osm_name_Woodlawn Way,0.0
+osm_name_Woodstock Gardens,0.0
+osm_name_Woodville Road,0.0
+osm_name_Wormwood Gate,0.0
+osm_name_Wynnefield Road,0.0
+osm_name_Xavier Avenue,0.0
+osm_name_Yarnhall Street,0.0
+osm_name_Yeats Way,0.0
+osm_name_Woodford Court,0.0
+osm_ref_R819,0.0
+osm_ref_R820,0.0
+osm_ref_R824,0.0
+osm_ref_R825,0.0
+osm_ref_R833,0.0
+osm_ref_R834,0.0
+osm_ref_R839,0.0
+osm_ref_R840,0.0
+osm_oneway_B,0.0
+osm_fclass_tertiary,0.0
+osm_ref_N50,0.0
+osm_ref_R806,0.0
+osm_ref_R805,0.0
+osm_ref_R804,0.0
+osm_ref_R803,0.0
+osm_ref_R802,0.0
+osm_ref_R801,0.0
+osm_ref_R148,0.0
+osm_ref_R147,0.0
+osm_ref_R813,0.0
+osm_fclass_motorway_link,0.0
+osm_fclass_secondary_link,0.0
+osm_ref_R138,0.0
+osm_ref_R101,0.0
+osm_ref_R102,0.0
+osm_ref_R103,0.0
+osm_ref_R104,0.0
+osm_ref_R105,0.0
+osm_ref_R107,0.0
+osm_ref_R108,0.0
+osm_ref_R109,0.0
+osm_ref_R110,0.0
+osm_ref_R111,0.0
+osm_ref_R112,0.0
+osm_ref_R818,0.0
+osm_ref_R117,0.0
+osm_ref_R118,0.0
+osm_ref_R808,0.0
+osm_ref_R132,0.0
+osm_ref_R135,0.0
+osm_ref_R137,0.0
+osm_ref_R807,0.0
+osm_ref_R814,0.0
+osm_ref_R815,0.0
+osm_ref_R816,0.0
+osm_ref_R817,0.0
+osm_ref_R114,0.0
+osm_name_Wellington Quay,0.0
+osm_name_Wellington Road,0.0
+osm_name_Wellington Street Lower,0.0
+osm_name_Wellington Street Upper,0.0
+osm_name_Wellmount Drive,0.0
+osm_name_Wellmount Road,0.0
+osm_name_Wellpark Avenue,0.0
+osm_name_Werburgh Street,0.0
+osm_name_Wesley Place,0.0
+osm_name_Wesley Road,0.0
+osm_name_Winetavern Street,0.0
+osm_name_Westbourne Road,0.0
+osm_name_Westbrook,0.0
+osm_name_Western Way,0.0
+osm_name_Westfield Road,0.0
+osm_name_Westhampton Place,0.0
+osm_name_Westland Court,0.0
+osm_name_Westland Row,0.0
+osm_name_Westland Square,0.0
+osm_name_Westlink Industrial Estate,0.0
+osm_name_Westmoreland Park,0.0
+osm_name_Westmoreland Street,0.0
+osm_name_West Road,0.0
+osm_name_Wasdale Grove,0.0
+osm_name_Wasdale Park,0.0
+osm_name_Washerwomans Lane,0.0
+osm_name_Washington Street,0.0
+osm_name_Waterfall Avenue,0.0
+osm_name_Waterfall Road,0.0
+osm_name_Waterloo Avenue,0.0
+osm_name_Waterloo Lane,0.0
+osm_name_Waterloo Road,0.0
+osm_name_Watermill Avenue,0.0
+osm_name_Watermill Drive,0.0
+osm_name_Wellington Place North,0.0
+osm_name_Watermill Park,0.0
+osm_name_Watermill Road,0.0
+osm_name_Watkins Square,0.0
+osm_name_Watling Street,0.0
+osm_name_Waverly Avenue,0.0
+osm_name_Weaver Lane,0.0
+osm_name_Weavers Close,0.0
+osm_name_Weavers Street,0.0
+osm_name_Weavers' Square,0.0
+osm_name_Wellington Lane,0.0
+osm_name_Wellington Place,0.0
+osm_name_Watermill Lawn,0.0
+osm_name_William Street South,0.0
+osm_name_William's Park,0.0
+osm_name_Williams Place South,0.0
+osm_name_Willow Field,0.0
+osm_name_Willow Park Avenue,0.0
+osm_name_Willow Park Crescent,0.0
+osm_name_Willow Park Drive,0.0
+osm_name_Willow Park Grove,0.0
+osm_name_Willow Park Road,0.0
+osm_name_Wilton Place,0.0
+osm_name_Westpark,0.0
+osm_name_Windele Road,0.0
+osm_name_Windermere,0.0
+osm_name_Windmill Avenue,0.0
+osm_name_Windmill Lane,0.0
+osm_name_Windmill Park,0.0
+osm_name_Windmill Road,0.0
+osm_name_Windsor Avenue,0.0
+osm_name_Windsor Place,0.0
+osm_name_Windsor Road,0.0
+osm_name_Windsor Terrace,0.0
+osm_name_Windsor Villas,0.0
+osm_name_Wilton Terrace,0.0
+osm_name_Wexford Street,0.0
+osm_name_Wharton Terrace,0.0
+osm_name_White's Lane,0.0
+osm_ref_R809,0.0
+osm_name_Whitefriar Place,0.0
+osm_name_Whitefriar Street,0.0
+osm_name_Whitehall Road,0.0
+osm_name_Whitehall Road West,0.0
+osm_name_Whitethorn Rise,0.0
+osm_name_Whitfield Grove,0.0
+osm_name_Whitton Road,0.0
+osm_name_William Street North,0.0
+osm_name_Whitworth Parade,0.0
+osm_name_Whitworth Place,0.0
+osm_name_Whitworth Road,0.0
+osm_name_Wicklow Street,0.0
+osm_name_Wiilson's Place,0.0
+osm_name_Wilfield,0.0
+osm_name_Wilfield Park,0.0
+osm_name_Wilfield Road,0.0
+osm_name_Wilfrid Road,0.0
+osm_name_Wilfrid Terrace,0.0
+osm_name_Wille Bermingham Place,0.0
+osm_name_Whitworth Avenue,0.0
+osm_name_Saint Patrick's Terrace,0.0
+osm_name_Saint Peter's Avenue,0.0
+osm_name_Saint Peter's Road,0.0
+osm_name_Saint Philomenas Road,0.0
+osm_name_Saint Teresa Place,0.0
+osm_name_Saint Teresa's Road,0.0
+osm_name_Saint Thomas' Road,0.0
+osm_name_Saint Vincent Street North,0.0
+osm_name_Saint Vincent Street South,0.0
+osm_name_Salem Court,0.0
+osm_name_Swan Centre Service Yard,0.0
+osm_name_Sallymount Avenue,0.0
+osm_name_Sallymount Gardens,0.0
+osm_name_Sallymount Terrace,0.0
+osm_name_Samuel Beckett Bridge,0.0
+osm_name_Sandford Avenue,0.0
+osm_name_Sandford Close,0.0
+osm_name_Sandford Road,0.0
+osm_name_Sandwith Street Lower,0.0
+osm_name_Sandwith Street Upper,0.0
+osm_name_Sandyhill Court,0.0
+osm_name_Sandymount Avenue,0.0
+osm_name_Sallowood View,0.0
+osm_name_Saint Laurence Place East,0.0
+osm_name_Saint Laurence's Grove,0.0
+osm_name_Saint Laurence's Road,0.0
+osm_name_Saint Lawrence Road,0.0
+osm_name_Saint Malachy's Road,0.0
+osm_name_Saint Margaret's Avenue,0.0
+osm_name_Saint Margaret's Road,0.0
+osm_name_Saint Margaret's Terrace,0.0
+osm_name_Saint Martin's Park,0.0
+osm_name_Saint Mary's Avenue North,0.0
+osm_name_Saint Pappin's Road,0.0
+osm_name_Saint Mary's Place,0.0
+osm_name_Saint Mary's Place North,0.0
+osm_name_Saint Mary's Road,0.0
+osm_name_Saint Michan's Street,0.0
+osm_name_Saint Mobhi Boithirin,0.0
+osm_name_Saint Mobhi Drive,0.0
+osm_name_Saint Mobhi Grove,0.0
+osm_name_Saint Mobhi Road,0.0
+osm_name_Saint Mobhi Road,0.0
+osm_name_Saint Pancras,0.0
+osm_name_Saint Pappin's Green,0.0
+osm_name_Saint Mary's Drive,0.0
+osm_name_Seafort Villas,0.0
+osm_name_Seafront Terrace,0.0
+osm_name_Seamus Ennis Road,0.0
+osm_name_Sean Mac Dermott Street Upper,0.0
+osm_name_Sean MacDermott Street Lower,0.0
+osm_name_Abbey Street Lower,0.0
+osm_name_Seapark,0.0
+osm_name_Seapark Drive,0.0
+osm_name_Seapark Road,0.0
+osm_name_Seaview Avenue,0.0
+osm_name_Sandymount Castle Drive,0.0
+osm_name_Seaview Terrace,0.0
+osm_name_Second Avenue,0.0
+osm_name_Serpentine Avenue,0.0
+osm_name_Serpentine Park,0.0
+osm_name_Serpentine Terrace,0.0
+osm_name_Setanta Place,0.0
+osm_name_Seven Oaks,0.0
+osm_name_Seville Place,0.0
+osm_name_Seville Terrace,0.0
+osm_name_Shamrock Street,0.0
+osm_name_Shamrock Terrace,0.0
+osm_name_Seaview Avenue North,0.0
+osm_name_Sandymount Court,0.0
+osm_name_Sandymount Green,0.0
+osm_name_Sandymount Road,0.0
+osm_name_Santry Avenue,0.0
+osm_name_Santry Bypass,0.0
+osm_name_Santry Villas,0.0
+osm_name_Santry Way,0.0
+osm_name_Sarsfield Quay,0.0
+osm_name_Sarsfield Road,0.0
+osm_name_Sarsfield Street,0.0
+osm_name_Saul Road,0.0
+osm_name_Seafort Crescent,0.0
+osm_name_School Avenue,0.0
+osm_name_School House Lane East,0.0
+osm_name_School Street,0.0
+osm_name_Schoolhouse Lane,0.0
+osm_name_Seacourt,0.0
+osm_name_Seafield Avenue,0.0
+osm_name_Seafield Downs,0.0
+osm_name_Seafield Grove,0.0
+osm_name_Seafield Road East,0.0
+osm_name_Seafield Road West,0.0
+osm_name_Seafort Avenue,0.0
+osm_name_Scherzer Lifting Bridge,0.0
+osm_name_Rutland Place,0.0
+osm_name_Rutland Place North,0.0
+osm_name_Rutland Street Lower,0.0
+osm_name_Rutledge Terrace,0.0
+osm_name_Ryan's Cottages,0.0
+osm_name_Ryder's Row,0.0
+osm_name_Sackville Avenue,0.0
+osm_name_Sackville Place,0.0
+osm_name_Saint Agnes Road,0.0
+osm_name_Saint Agnes Road (Crumlin Village),0.0
+osm_name_Saint Laurance Place,0.0
+osm_name_Saint Aidan's Park,0.0
+osm_name_Saint Aidan's Park Avenue,0.0
+osm_name_Saint Aidan's Park Road,0.0
+osm_name_Saint Alban's Park,0.0
+osm_name_Saint Alban's Road,0.0
+osm_name_Saint Alphonsus' Road Lower,0.0
+osm_name_Saint Andrew Street,0.0
+osm_name_Saint Anthony's Road,0.0
+osm_name_Saint Assam's Avenue,0.0
+osm_name_Saint Assam's Drive,0.0
+osm_name_Saint Assam's Park,0.0
+osm_name_Saint Agnes' Park,0.0
+osm_name_Rory O'More Bridge,0.0
+osm_name_Rosedale Terrace,0.0
+osm_name_Roseglen Road,0.0
+osm_name_Rosemount Avenue,0.0
+osm_name_Rosie Hackett Bridge,0.0
+osm_name_Ross Place,0.0
+osm_name_Ross Road,0.0
+osm_name_Ross Street,0.0
+osm_name_Rostrevor Court,0.0
+osm_name_Rostrevor Place,0.0
+osm_name_Rutland Grove,0.0
+osm_name_Rothe Abbey,0.0
+osm_name_Rowserstown Lane,0.0
+osm_name_Royal Canal Avenue,0.0
+osm_name_Royal Canal Bank,0.0
+osm_name_Royal Canal Court,0.0
+osm_name_Royal Canal Way,0.0
+osm_name_Royston,0.0
+osm_name_Russell Avenue,0.0
+osm_name_Russell Avenue East,0.0
+osm_name_Russell Street,0.0
+osm_name_Rutland Avenue,0.0
+osm_name_Rostrevor Terrace,0.0
+osm_name_Saint Gabriels Road,0.0
+osm_name_Saint Georges Avenue,0.0
+osm_name_Saint Helena's Road,0.0
+osm_name_Saint Ignatius Road,0.0
+osm_name_Saint Jame's Wood,0.0
+osm_name_Saint James' Avenue,0.0
+osm_name_Saint James's Avenue,0.0
+osm_name_Saint Jarlath Road,0.0
+osm_name_Saint John's Court,0.0
+osm_name_Saint John's Road West,0.0
+osm_name_Saint Assam's Road East,0.0
+osm_name_Saint Joseph's Parade,0.0
+osm_name_Saint Joseph's Place,0.0
+osm_name_Saint Joseph's Road,0.0
+osm_name_Saint Joseph's Square,0.0
+osm_name_Saint Joseph's Street,0.0
+osm_name_Saint Joseph's Terrace,0.0
+osm_name_Saint Josephs Avenue,0.0
+osm_name_Saint Josephs Place,0.0
+osm_name_Saint Kevin's Cottages,0.0
+osm_name_Saint Kevin's Parade,0.0
+osm_name_Saint Kevin's Road,0.0
+osm_name_Saint Joseph's Avenue,0.0
+osm_name_Saint Assam's Road West,0.0
+osm_name_Saint Attracta Road,0.0
+osm_name_Saint Benedict's Gardens,0.0
+osm_name_Saint Brendan's Avenue,0.0
+osm_name_Abbeyfield,0.0
+osm_name_Saint Brendan's Park,0.0
+osm_name_Saint Brendan's Terrace,0.0
+osm_name_Saint Bridgid's Crescent,0.0
+osm_name_Saint Brigid's Road,0.0
+osm_name_Saint Brigids Avenue,0.0
+osm_name_Saint Brocs Cottages,0.0
+osm_name_Saint Fintan Road,0.0
+osm_name_Saint Canice's Road,0.0
+osm_name_Saint Catherine's Avenue,0.0
+osm_name_Saint Catherine's Lane West,0.0
+osm_name_Saint Clement's Road,0.0
+osm_name_Saint Columba's Road Upper,0.0
+osm_name_Saint David's Terrace,0.0
+osm_name_Saint Davids Wood,0.0
+osm_name_Saint Declan's Road,0.0
+osm_name_Saint Declan's Terrace,0.0
+osm_name_Saint Eithne Road,0.0
+osm_name_Saint Finbar's Road,0.0
+osm_name_Saint Canice's Park,0.0
+osm_name_St Mary's Lane,0.0
+osm_name_St Mary's Road,0.0
+osm_name_St Michael's Cottages,0.0
+osm_name_St Michael's Hill,0.0
+osm_name_St Michaels Close,0.0
+osm_name_St Patrick's Parade,0.0
+osm_name_St Patrick's Road,0.0
+osm_name_St Patrick's Villas,0.0
+osm_name_St Vincent's Street West,0.0
+osm_name_St. Andrew's Court,0.0
+osm_name_Shanagarry,0.0
+osm_name_St. Francis Square,0.0
+osm_name_St. John's Court,0.0
+osm_name_St. John's Wood,0.0
+osm_name_St. Kevin's College,0.0
+osm_name_St. Patrick's Close,0.0
+osm_name_St. Peter's Court,0.0
+osm_name_St. Stephen's Green,0.0
+osm_name_Stable Lane,0.0
+osm_name_Stamer Street,0.0
+osm_name_Stanford Green,0.0
+osm_name_Stanhope Street,0.0
+osm_name_St. Elizabeth's Court,0.0
+osm_name_Springdale Road,0.0
+osm_name_Springfield,0.0
+osm_name_St Alphonsus Road Upper,0.0
+osm_name_St Alphonsus' Avenue,0.0
+osm_name_St Andrew Lane,0.0
+osm_name_St Anne's Road,0.0
+osm_name_St Augustine Street,0.0
+osm_name_St Brendan's Cottages,0.0
+osm_name_St Brigid's Road Lower,0.0
+osm_name_St Brigid's Road Upper,0.0
+osm_name_St Kevin's Avenue,0.0
+osm_name_St Donagh's Park,0.0
+osm_name_St Donagh's Road,0.0
+osm_name_St Enda's Road,0.0
+osm_name_St James' Place,0.0
+osm_name_St James' Walk,0.0
+osm_name_St James's Terrace,0.0
+osm_name_St John's,0.0
+osm_name_St John's Road,0.0
+osm_name_St John's Road West,0.0
+osm_name_St Joseph's Avenue,0.0
+osm_name_St Joseph's Way,0.0
+osm_name_St Donagh's Crescent,0.0
+osm_name_Strand Street,0.0
+osm_name_Strangford Gardens,0.0
+osm_name_Strangford Road East,0.0
+osm_name_Strasburg Terrace,0.0
+osm_name_Suffolk Street,0.0
+osm_name_Sugar House Lane,0.0
+osm_name_Suir Road,0.0
+osm_name_Suir Road Bridge,0.0
+osm_name_Summer Street North,0.0
+osm_name_Summer Street South,0.0
+osm_name_Stanley Street,0.0
+osm_name_Summerhill Parade,0.0
+osm_name_Summerville Park,0.0
+osm_name_Sunbury Court,0.0
+osm_name_Sunbury Gardens,0.0
+osm_name_Sundrive Road,0.0
+osm_name_Susan Terrace,0.0
+osm_name_Susanville Road,0.0
+osm_name_Sussex Road,0.0
+osm_name_Sussex Terrace,0.0
+osm_name_Swan Alley,0.0
+osm_name_Swan Centre Car Park,0.0
+osm_name_Summerhill,0.0
+osm_name_Stannaway Avenue,0.0
+osm_name_Stannaway Court,0.0
+osm_name_Stannaway Drive,0.0
+osm_name_Stannaway Road,0.0
+osm_name_Station Road,0.0
+osm_name_Station Square,0.0
+osm_name_Station Way,0.0
+osm_name_Steeven's Lane,0.0
+osm_name_Stella Avenue,0.0
+osm_name_Stephen Street Lower,0.0
+osm_name_Stephen Street Upper,0.0
+osm_name_Strand Road,0.0
+osm_name_Stephen's Place,0.0
+osm_fclass_trunk,0.0
+osm_name_Stiles Court,0.0
+osm_name_Stillorgan,0.0
+osm_name_Stirrup Lane,0.0
+osm_name_Stokes Place,0.0
+osm_name_Stoney Road,0.0
+osm_name_Stoneybatter,0.0
+osm_name_Store Street,0.0
+osm_name_Stormanstown Road,0.0
+osm_name_Strand Mews,0.0
+osm_name_Stephen's Lane,0.0
+osm_name_Shanowen Road,0.0
+osm_name_Shanowen Square,0.0
+osm_name_Shanrath Road,0.0
+osm_name_Shantalla Avenue,0.0
+osm_name_Shantalla Drive,0.0
+osm_name_Shantalla Park,0.0
+osm_name_Shantalla Road,0.0
+osm_name_Shaw Street,0.0
+osm_name_Shea's Lane,0.0
+osm_name_Shelbourne Avenue,0.0
+osm_name_Spring Garden Street,0.0
+osm_name_Shelbourne Road,0.0
+osm_name_Shelbourne Village,0.0
+osm_name_Shelmalier Road,0.0
+osm_name_Shelmartin Avenue,0.0
+osm_name_Shelmartin Terrace,0.0
+osm_name_Shelton Grove,0.0
+osm_name_Sheriff Street Lower,0.0
+osm_name_150 Howth Road,0.0
+osm_name_Sherrard Street Lower,0.0
+osm_name_Sherrard Street Upper,0.0
+osm_name_Ship Street Great,0.0
+osm_name_Shelbourne Place,0.0
+osm_name_Shanard Avenue,0.0
+osm_name_Shanard Road,0.0
+osm_name_Shandon Crescent,0.0
+osm_name_Shandon Drive,0.0
+osm_name_Shandon Gardens,0.0
+osm_name_Shandon Green,0.0
+osm_name_Shandon Park,0.0
+osm_name_Shandon Road,0.0
+osm_name_Shangan Crescent,0.0
+osm_name_Shangan Green,0.0
+osm_name_Shangan Road,0.0
+osm_name_Shanowen Park,0.0
+osm_name_Shanliss Drive,0.0
+osm_name_Shanliss Park,0.0
+osm_name_Shanliss Road,0.0
+osm_name_Shanliss Walk,0.0
+osm_name_Shanliss Way,0.0
+osm_name_Shannon Terrace,0.0
+osm_name_Shanowen Avenue,0.0
+osm_name_Shanowen Business Centre,0.0
+osm_name_Shanowen Crescent,0.0
+osm_name_Shanowen Drive,0.0
+osm_name_Shanowen Grove,0.0
+osm_name_Shanliss Avenue,0.0
+osm_name_Smithfield Terrace,0.0
+osm_name_Snowdrop Walk,0.0
+osm_name_Somerville Avenue,0.0
+osm_name_Somerville Park,0.0
+osm_fclass_trunk_link,0.0
+osm_name_South Circular Road,0.0
+osm_name_South Cumberland Street,0.0
+osm_name_South Dock Street,0.0
+osm_name_South Frederick Street,0.0
+osm_name_South Great George's Street,0.0
+osm_name_Ship Street Little,0.0
+osm_name_South Lotts Road,0.0
+osm_name_Southern Cross Avenue,0.0
+osm_name_Spa Road,0.0
+osm_name_Spencer Dock Bridge,0.0
+osm_name_Spencer Row,0.0
+osm_name_Spencer Street North,0.0
+osm_name_Spencer Street South,0.0
+osm_name_Sperrin Road,0.0
+osm_name_Spindrift Avenue,0.0
+osm_name_Spitalfields,0.0
+osm_name_Spring Garden Lane,0.0
+osm_name_South Hill,0.0
+osm_name_Shrewsbury Park,0.0
+osm_name_Shrewsbury Road,0.0
+osm_name_Sigurd Road,0.0
+osm_name_Silloge Road,0.0
+osm_name_Sillogue Park,0.0
+osm_name_Simmonscourt Avenue,0.0
+osm_name_Simmonscourt Castle,0.0
+osm_name_Simmonscourt Road,0.0
+osm_name_Simmonscourt Square,0.0
+osm_name_Simmonscourt Terrace,0.0
+osm_name_Sion Hill Park,0.0
+osm_name_Smithfield,0.0
+osm_name_Sir John Rogerson's Quay,0.0
+osm_name_Skelly's Lane,0.0
+osm_name_Skreen Road,0.0
+osm_name_Slademore Avenue,0.0
+osm_name_Slaney Close,0.0
+osm_name_Slaney Court,0.0
+osm_name_Slaney Road,0.0
+osm_name_Slemish Road,0.0
+osm_name_Slievebloom Road,0.0
+osm_name_Slievemore Road,0.0
+osm_name_Slievenamon Road,0.0
+osm_name_Sion Hill Road,0.0
+osm_name_Champions' Avenue,0.0
+osm_name_Chancery Lane,0.0
+osm_name_Chancery Place,0.0
+osm_name_Chancery Street,0.0
+osm_name_Chanel Avenue,0.0
+osm_name_Chanel Grove,0.0
+osm_name_Chanel Road,0.0
+osm_name_Chapel Avenue,0.0
+osm_name_Chapelgate,0.0
+osm_name_Chapelizod Bypass,0.0
+osm_name_Kilmore Crescent,0.0
+osm_name_Chapelizod Gate,0.0
+osm_name_Chapelizod Hill Road,0.0
+osm_name_Chapelizod Road,0.0
+osm_name_Charlemont Bridge,0.0
+osm_name_Charlemont Mall,0.0
+osm_name_Charlemont Parade,0.0
+osm_name_Charlemont Road,0.0
+osm_name_Charlemont Street,0.0
+osm_name_Charles Lane,0.0
+osm_name_Charles Street West,0.0
+osm_name_Charleston Court,0.0
+osm_name_Chapelizod Court,0.0
+osm_name_Castlewood Terrace,0.0
+osm_name_Cathal Brugha Street,0.0
+osm_name_Cathedral Lane,0.0
+osm_name_Cathedral Street,0.0
+osm_name_Cathedral View Court,0.0
+osm_name_Catherine Court,0.0
+osm_name_Catherine Street,0.0
+osm_name_Catherine's Lane North,0.0
+osm_name_Causeway Road,0.0
+osm_name_Cavalry Row,0.0
+osm_name_Chamber Street,0.0
+osm_name_Cecil Avenue,0.0
+osm_name_Cedar Brook Avenue,0.0
+osm_name_Cedar Brook Way,0.0
+osm_name_Cedar Court,0.0
+osm_name_Cedar Walk,0.0
+osm_name_Cedarwood Green,0.0
+osm_name_Cedarwood Grove,0.0
+osm_name_Cedarwood Rise,0.0
+osm_name_Cedarwood Road,0.0
+osm_name_Celtic Park Avenue,0.0
+osm_name_Celtic Park Road,0.0
+osm_name_Cavendish Row,0.0
+osm_name_Church Park Avenue,0.0
+osm_name_Church Park Drive,0.0
+osm_name_Church Park Lawn,0.0
+osm_name_Church Park Way,0.0
+osm_name_Church Road,0.0
+osm_name_Church Street,0.0
+osm_name_Church Street Upper,0.0
+osm_name_Church Terrace,0.0
+osm_name_Churchgate Avenue,0.0
+osm_name_Churchill Terrace,0.0
+osm_name_Charleston Road,0.0
+osm_name_Churchwell Road,0.0
+osm_name_Cian Park,0.0
+osm_name_Cill Eanna,0.0
+osm_name_City Quay,0.0
+osm_name_Clanawley Road,0.0
+osm_name_Clanboy Road,0.0
+osm_name_Clanbrassil Street Lower,0.0
+osm_name_Clanbrassil Street Upper,0.0
+osm_name_Clanbrassil Terrace,0.0
+osm_name_Clancarthy Road,0.0
+osm_name_Clancy Avenue,0.0
+osm_name_Churchtown Road Lower,0.0
+osm_name_Charlestown Place,0.0
+osm_name_Charleville Avenue,0.0
+osm_name_Charleville Mall,0.0
+osm_name_Charleville Road,0.0
+osm_name_Charlotte Way,0.0
+osm_name_Chelmsford Lane,0.0
+osm_name_Chelmsford Road,0.0
+osm_name_Cheltenham Place,0.0
+osm_name_Cherry Grove,0.0
+osm_name_Cherry Orchard Avenue,0.0
+osm_name_Cherry Orchard Parade,0.0
+osm_name_Church Lane South,0.0
+osm_name_Cherryfield Avenue Lower,0.0
+osm_name_Cherryfield Avenue Upper,0.0
+osm_name_Cherryfield Road,0.0
+osm_name_Chesterfield Avenue,0.0
+osm_name_Chimney View,0.0
+osm_name_Christchurch Place,0.0
+osm_name_Christchurch Square,0.0
+osm_name_Church Avenue,0.0
+osm_name_Church Avenue South,0.0
+osm_name_Church Gardens,0.0
+osm_name_Church Lane,0.0
+osm_name_Cherry Orchard Park,0.0
+osm_name_Camac Close,0.0
+osm_name_Camac Court,0.0
+osm_name_Cambridge Avenue,0.0
+osm_name_Cambridge Road,0.0
+osm_name_Cambridge Square,0.0
+osm_name_Cambridge Terrace,0.0
+osm_name_Cambridge Villas,0.0
+osm_name_Camden Avenue,0.0
+osm_name_Camden Court,0.0
+osm_name_Camden Row,0.0
+osm_name_Castlewood Place,0.0
+osm_name_Camden Street Upper,0.0
+osm_name_Cameron Square,0.0
+osm_name_Cameron Street,0.0
+osm_name_Campbell's Court,0.0
+osm_name_Campbell's Row,0.0
+osm_name_Canal Road,0.0
+osm_name_Cannon Place,0.0
+osm_name_Capel Street,0.0
+osm_name_Cappagh Road,0.0
+osm_name_Captain's Avenue,0.0
+osm_name_Captain's Drive,0.0
+osm_name_Camden Street Lower,0.0
+osm_name_Aideen Place,0.0
+osm_name_Bunting Road,0.0
+osm_name_Burgess Lane,0.0
+osm_name_Burgh Quay,0.0
+osm_name_Burleigh Court,0.0
+osm_name_Burlington Road,0.0
+osm_name_Bushfield Avenue,0.0
+osm_name_Bushfield Square,0.0
+osm_name_Bushfield Terrace,0.0
+osm_name_Bushy Park Road,0.0
+osm_name_Butt Bridge,0.0
+osm_name_Camac Bridge,0.0
+osm_name_Byrne's Lane,0.0
+osm_name_Byrnes Lane,0.0
+osm_name_Cabra Drive,0.0
+osm_name_Cabra Grove,0.0
+osm_name_Cabra Park,0.0
+osm_name_Cabra Road,0.0
+osm_name_Cadogan Road,0.0
+osm_name_Calderwood Avenue,0.0
+osm_name_Calderwood Road,0.0
+osm_name_Caledon Court,0.0
+osm_name_Caledon Road,0.0
+osm_name_Butterly Business Park,0.0
+osm_name_Cashel Avenue,0.0
+osm_name_Cashel Road,0.0
+osm_name_Casimir Road,0.0
+osm_name_Casino Park,0.0
+osm_name_Casino Road,0.0
+osm_name_Castilla Park,0.0
+osm_name_Castle Avenue,0.0
+osm_name_Castle Court,0.0
+osm_name_Castle Elms,0.0
+osm_name_Castle Grove,0.0
+osm_name_Captains Road,0.0
+osm_name_Castle Street,0.0
+osm_name_Castle Terrace,0.0
+osm_name_Castleforbes Road,0.0
+osm_name_Castlekevin Road,0.0
+osm_name_Castletimon Avenue,0.0
+osm_name_Castletimon Drive,0.0
+osm_name_Castletimon Park,0.0
+osm_name_Castletimon Road,0.0
+osm_name_Castleview,0.0
+osm_name_Castlewood Avenue,0.0
+osm_name_Castlewood Park,0.0
+osm_name_Castle Park,0.0
+osm_name_Caragh Road,0.0
+osm_name_Cardiff Lane,0.0
+osm_name_Cardiffsbridge Avenue,0.0
+osm_name_Cardiffsbridge Grove,0.0
+osm_name_Cardiffsbridge Road,0.0
+osm_name_Carleton Road,0.0
+osm_name_Carlingford Parade,0.0
+osm_name_Carlingford Road,0.0
+osm_name_Carlisle Avenue,0.0
+osm_name_Carlisle Street,0.0
+osm_name_Carmans Hall,0.0
+osm_name_Casement Road,0.0
+osm_name_Carndonagh Lawn,0.0
+osm_name_Carndonagh Park,0.0
+osm_name_Carndonagh Road,0.0
+osm_name_Carnew Street,0.0
+osm_name_Carnlough Road,0.0
+osm_name_Carrick Terrace,0.0
+osm_name_Carrow Road,0.0
+osm_name_Carruth Roundabout,0.0
+osm_name_Carton Court,0.0
+osm_name_Carton Drive,0.0
+osm_name_Carton Road,0.0
+osm_name_Carndonagh Drive,0.0
+osm_name_Craigford Avenue,0.0
+osm_name_Crampton Avenue,0.0
+osm_name_Crampton Court,0.0
+osm_name_Crampton Quay,0.0
+osm_name_Crane Lane,0.0
+osm_name_Crane Street,0.0
+osm_name_Cranfield Place,0.0
+osm_name_Crannogue Road,0.0
+osm_name_Crawford Avenue,0.0
+osm_name_Creighton Street,0.0
+osm_name_Clanhugh Road,0.0
+osm_name_Cremore Avenue,0.0
+osm_name_Cremore Crescent,0.0
+osm_name_Cremore Drive,0.0
+osm_name_Cremore Heights,0.0
+osm_name_Cremore Park,0.0
+osm_name_Cremore Road,0.0
+osm_name_Cremorne,0.0
+osm_name_Crescent Place,0.0
+osm_name_Crescent Villas,0.0
+osm_name_Crestfield Avenue Extension,0.0
+osm_name_Crestfield Drive,0.0
+osm_name_Cremona Road,0.0
+osm_name_Coolock Drive,0.0
+osm_name_Coolock Lane,0.0
+osm_name_Coolock Lane Interchange,0.0
+osm_name_Coolock Village,0.0
+osm_name_Coombe Court,0.0
+osm_name_Copeland Avenue,0.0
+osm_name_Copeland Grove,0.0
+osm_name_Cork Hill,0.0
+osm_name_Cormac Terrace,0.0
+osm_name_Corn Exchange Place,0.0
+osm_name_Cowper Street,0.0
+osm_name_Aideen Avenue,0.0
+osm_name_Costello Cottages,0.0
+osm_name_Coultry Crescent,0.0
+osm_name_Coultry Road,0.0
+osm_name_Coultry Terrace,0.0
+osm_name_Courtney Place,0.0
+osm_name_Courtyard,0.0
+osm_name_Cow Parlour,0.0
+osm_name_Cowper Downs,0.0
+osm_name_Cowper Gardens,0.0
+osm_name_Cowper Road,0.0
+osm_name_Cornmarket,0.0
+osm_name_Cumberland Street North,0.0
+osm_name_Curlew Road,0.0
+osm_name_Curzon Street,0.0
+osm_name_Adrian Avenue,0.0
+osm_name_D'Olier Street,0.0
+osm_name_Dalcassian Downs,0.0
+osm_name_Dalymount,0.0
+osm_name_Dame Court,0.0
+osm_name_Dame Lane,0.0
+osm_name_Dame Street,0.0
+osm_name_Crestfield Road,0.0
+osm_name_Daneswell Road,0.0
+osm_name_Dangan Avenue,0.0
+osm_name_Danieli Drive,0.0
+osm_name_Danieli Road,0.0
+osm_name_Dargle Road,0.0
+osm_name_Darley Street,0.0
+osm_name_Darling Estate,0.0
+osm_name_Darndale Roundabout,0.0
+osm_name_Dartmouth Lane,0.0
+osm_name_Dartmouth Place,0.0
+osm_name_Dartmouth Road,0.0
+osm_name_Dane Road,0.0
+osm_name_Croaghpatrick Road,0.0
+osm_name_Cromcastle Avenue,0.0
+osm_name_Cromcastle Drive,0.0
+osm_name_Cromcastle Park,0.0
+osm_name_Cromcastle Road,0.0
+osm_name_Cromwellsfort Road,0.0
+osm_name_Cross Guns Bridge,0.0
+osm_name_Cross Lane South,0.0
+osm_name_Crosstick Alley,0.0
+osm_name_Croydon Gardens,0.0
+osm_name_Croydon Green,0.0
+osm_name_Cumberland Road,0.0
+osm_name_Croydon Terrace,0.0
+osm_name_Crumlin Park,0.0
+osm_name_Crumlin Road,0.0
+osm_name_Cuala Road,0.0
+osm_name_Cuckoo Lane,0.0
+osm_name_Cuffe Lane,0.0
+osm_name_Cuffe Street,0.0
+osm_name_Cullenswood Gardens,0.0
+osm_name_Cullenswood Park,0.0
+osm_name_Cullenswood Road,0.0
+osm_name_Culmore Road,0.0
+osm_name_Croydon Park Avenue,0.0
+osm_name_Clonard Road,0.0
+osm_name_Clonliffe Bridge,0.0
+osm_name_Clonliffe Gardens,0.0
+osm_name_Clonliffe Road,0.0
+osm_name_Clonmacnoise Road,0.0
+osm_name_Clonmel Road,0.0
+osm_name_Clonmel Street,0.0
+osm_name_Clonmore Road,0.0
+osm_name_Clonrosse Drive,0.0
+osm_name_Clonrosse Park,0.0
+osm_name_Coolgrenna Road,0.0
+osm_name_Clonshaugh Business & Technology Park,0.0
+osm_name_Clonshaugh Crescent,0.0
+osm_name_Clonshaugh Drive,0.0
+osm_name_Clonshaugh Green,0.0
+osm_name_Clonshaugh Heights,0.0
+osm_name_Clonshaugh Meadow,0.0
+osm_name_Clonshaugh Park,0.0
+osm_name_Clonshaugh Road,0.0
+osm_name_Clonshough Lawn,0.0
+osm_name_Clonskeagh Road,0.0
+osm_name_Clontarf Park,0.0
+osm_name_Clonshaugh Avenue,0.0
+osm_name_Clanmahon Road,0.0
+osm_name_Clanwilliam Place,0.0
+osm_name_Clare Lane,0.0
+osm_name_Clare Road,0.0
+osm_name_Clare Street,0.0
+osm_name_Clarehall Avenue,0.0
+osm_name_Claremont Close,0.0
+osm_name_Claremont Court,0.0
+osm_name_Claremont Crescent,0.0
+osm_name_Aideen Drive,0.0
+osm_name_Claremont Road,0.0
+osm_name_Clonallen,0.0
+osm_name_Clarence Mangan Square,0.0
+osm_name_Clarendon Street,0.0
+osm_name_Clareville Court,0.0
+osm_name_Clareville Road,0.0
+osm_name_Clarke's Bridge,0.0
+osm_name_Clarke's Terrace,0.0
+osm_name_Claude Road,0.0
+osm_name_Clearwater Shopping Centre,0.0
+osm_name_Clifden Road,0.0
+osm_name_Cliftonville Road,0.0
+osm_name_Clogher Road,0.0
+osm_name_Clarence Mangan Road,0.0
+osm_name_Collinswood,0.0
+osm_name_Comeragh Road,0.0
+osm_name_Commons Street,0.0
+osm_name_Con Colbert Road,0.0
+osm_name_Connaught Parade,0.0
+osm_name_Connaught Street,0.0
+osm_name_Connolly Avenue,0.0
+osm_name_Connolly Gardens,0.0
+osm_name_Conor Clune Road,0.0
+osm_name_Conquer Hill Road,0.0
+osm_name_Clontarf Road,0.0
+osm_name_Convent Avenue,0.0
+osm_name_Convent Place,0.0
+osm_name_Convent View Crescent,0.0
+osm_name_Conyngham Road,0.0
+osm_name_Cook Street,0.0
+osm_name_Coolatree Park,0.0
+osm_name_Coolatree Road,0.0
+osm_name_Cooleen Avenue,0.0
+osm_name_Coolevin Road,0.0
+osm_name_Cooley Road,0.0
+osm_name_Coolgariff Road,0.0
+osm_name_Constitution Hill,0.0
+osm_name_Clonturk Avenue,0.0
+osm_name_Clonturk Park,0.0
+osm_name_Cloverhill Road,0.0
+osm_name_Clune Road,0.0
+osm_name_Clyde Lane,0.0
+osm_name_Clyde Road,0.0
+osm_name_Coburg Place,0.0
+osm_name_Coghlan Roundabout,0.0
+osm_name_Colepark Drive,0.0
+osm_name_Colepark Road,0.0
+osm_name_Coleraine Street,0.0
+osm_name_Collins Row,0.0
+osm_name_College Green,0.0
+osm_name_College Street,0.0
+osm_name_Colliers Avenue,0.0
+osm_name_Collins Avenue,0.0
+osm_name_Collins Avenue East,0.0
+osm_name_Collins Avenue Extension,0.0
+osm_name_Collins Court,0.0
+osm_name_Collins Drive,0.0
+osm_name_Collins Green,0.0
+osm_name_Collins Park,0.0
+osm_name_Collins Place,0.0
+osm_name_College Drive,0.0
+osm_name_Bachelors Walk,0.0
+osm_name_Back Lane,0.0
+osm_name_Baggot Close,0.0
+osm_name_Baggot Court,0.0
+osm_name_Baggot Lane,0.0
+osm_name_Baggot Road,0.0
+osm_name_Baggot Street Lower,0.0
+osm_name_Baggot Street Upper,0.0
+osm_name_Baggotrath Place,0.0
+osm_name_Bailey's Court,0.0
+osm_name_Bunratty Drive,0.0
+osm_name_Balbutcher Lane,0.0
+osm_name_Balbutcher Way,0.0
+osm_name_Balcurris Park West,0.0
+osm_name_Balcurris Road,0.0
+osm_name_Balfe Road,0.0
+osm_name_Ball's Bridge,0.0
+osm_name_Ball's Lane,0.0
+osm_name_Ballsbridge,0.0
+osm_name_Ballsbridge Avenue,0.0
+osm_name_Ballsbridge Park,0.0
+osm_name_Ballsbridge Terrace,0.0
+osm_name_Bailey's Row,0.0
+osm_name_Athlumney Villas,0.0
+osm_name_Auburn Avenue,0.0
+osm_name_Auburn Road,0.0
+osm_name_Auburn Street,0.0
+osm_name_Auburn Villas,0.0
+osm_name_Aughavanagh Road,0.0
+osm_name_Aughrim Place,0.0
+osm_name_Aughrim Street,0.0
+osm_name_Aulden Grange,0.0
+osm_name_Aungier Place,0.0
+osm_name_Bachelor's Way,0.0
+osm_name_Austin's Cottages,0.0
+osm_name_Avenue Road,0.0
+osm_name_Avila Park,0.0
+osm_name_Avondale Avenue,0.0
+osm_name_Avondale Park,0.0
+osm_name_Avondale Road,0.0
+osm_name_Aylward Green,0.0
+osm_name_Ayrfield Avenue,0.0
+osm_name_Ayrfield Drive,0.0
+osm_name_Ayrfield Park,0.0
+osm_name_Ayrfield Road,0.0
+osm_name_Aungier Street,0.0
+osm_name_Bantry Road,0.0
+osm_name_Bargy Road,0.0
+osm_name_Barron Place,0.0
+osm_name_Barrow Road,0.0
+osm_name_Barrow Street,0.0
+osm_name_Barry Avenue,0.0
+osm_name_Barry Drive,0.0
+osm_name_Barry Park,0.0
+osm_name_Barry Road,0.0
+osm_name_Barryscourt Road,0.0
+osm_name_Ballyboggan Road,0.0
+osm_name_Bass Place,0.0
+osm_name_Bath Avenue,0.0
+osm_name_Bath Avenue Gardens,0.0
+osm_name_Bath Avenue Place,0.0
+osm_name_Bath Lane,0.0
+osm_name_Bath Street,0.0
+osm_name_Baymount Park,0.0
+osm_name_Bayview Avenue,0.0
+osm_name_Beach Avenue,0.0
+osm_name_Beach Road,0.0
+osm_name_Beaconsfield Court,0.0
+osm_name_Basin Street Lower,0.0
+osm_name_Ballybough House,0.0
+osm_name_Ballybough Lane,0.0
+osm_name_Ballybough Road,0.0
+osm_name_Ballyfermot Avenue,0.0
+osm_name_Ballyfermot Bridge (New),0.0
+osm_name_Ballyfermot Parade,0.0
+osm_name_Ballyfermot Road,0.0
+osm_name_Ballyfermot Roundabout,0.0
+osm_name_Ballygall Avenue,0.0
+osm_name_Ballygall Crescent,0.0
+osm_name_Ballygall Parade,0.0
+osm_name_Bannow Road,0.0
+osm_name_Ballygall Road East,0.0
+osm_name_Ballygall Road West,0.0
+osm_name_Ballyhoy Avenue,0.0
+osm_name_Ballymount Road Lower,0.0
+osm_name_Ballymun Road,0.0
+osm_name_Ballyneety Road,0.0
+osm_name_Ballyshannon Avenue,0.0
+osm_name_Ballyshannon Road,0.0
+osm_name_Bangor Drive,0.0
+osm_name_Bangor Road,0.0
+osm_name_Bann Road,0.0
+osm_name_Ballygall Place,0.0
+osm_name_Annadale Avenue,0.0
+osm_name_Annadale Crescent,0.0
+osm_name_Annadale Drive,0.0
+osm_name_Annaly Road,0.0
+osm_name_Annamoe Drive,0.0
+osm_name_Annamoe Parade,0.0
+osm_name_Annamoe Park,0.0
+osm_name_Annamoe Road,0.0
+osm_name_Annamoe Terrace,0.0
+osm_name_Annamore Court,0.0
+osm_name_Aston Quay,0.0
+osm_name_Anner Road,0.0
+osm_name_Annesley Avenue,0.0
+osm_name_Annesley Bridge,0.0
+osm_name_Annesley Bridge Road,0.0
+osm_name_Annesley Park,0.0
+osm_name_Annesley Place,0.0
+osm_name_Appian Way,0.0
+osm_name_Arbour Hill,0.0
+osm_name_Arbour Place,0.0
+osm_name_Arbour Terrace,0.0
+osm_name_Arbutus Avenue,0.0
+osm_name_Anne Street North,0.0
+osm_name_Albert College Avenue,0.0
+osm_name_Albert College Crescent,0.0
+osm_name_Albert College Drive,0.0
+osm_name_Albert College Lawn,0.0
+osm_name_Albert College Park,0.0
+osm_name_Albert Place East,0.0
+osm_name_Albert Place West,0.0
+osm_name_Albertstown Road,0.0
+osm_name_Aldborough Court,0.0
+osm_name_Aldborough Place,0.0
+osm_name_Alexandra Road,0.0
+osm_name_Anna Villa,0.0
+osm_name_Alfie Byrne Road,0.0
+osm_name_All Saints Drive,0.0
+osm_name_All Saints Park,0.0
+osm_name_All Saints Road,0.0
+osm_name_Amiens Street,0.0
+osm_name_Anglesea,0.0
+osm_name_Anglesea Road,0.0
+osm_name_Anglesea Row,0.0
+osm_name_Anglesea Street,0.0
+osm_name_Anglesey Bridge,0.0
+osm_name_Anna Livia Bridge,0.0
+osm_name_Alexandra Road Extension,0.0
+osm_name_Artane Roundabout,0.0
+osm_name_Artillery Parade,0.0
+osm_name_Asdill's Row,0.0
+osm_name_Asgard Road,0.0
+osm_name_Albany Road,0.0
+osm_name_Ashbrook,0.0
+osm_name_Ashcroft,0.0
+osm_name_Ashdale Road,0.0
+osm_name_Ashfield Avenue,0.0
+osm_name_Ashfield Park,0.0
+osm_name_Ard Righ Road,0.0
+osm_name_Ashington Avenue,0.0
+osm_name_Ashington Gardens,0.0
+osm_name_Ashington Heath,0.0
+osm_name_Ashington Park,0.0
+osm_name_Ashington Rise,0.0
+osm_name_Ashling Close,0.0
+osm_name_Ashtown Grove,0.0
+osm_name_Ashtown Road,0.0
+osm_name_Ashtown Roundabout,0.0
+osm_name_Ashworth Place,0.0
+osm_name_Aston Place,0.0
+osm_name_Ashfield Road,0.0
+osm_name_Ardagh Road,0.0
+osm_name_Ardara Avenue,0.0
+osm_name_Ardbeg Road,0.0
+osm_name_Ardcollum Avenue,0.0
+osm_name_Ardee Road,0.0
+osm_name_Ardee Street,0.0
+osm_name_Ardilaun Road,0.0
+osm_name_Ardlea Road,0.0
+osm_name_Ardmore Close,0.0
+osm_name_Ardmore Drive,0.0
+osm_name_Ardmore Grove,0.0
+osm_name_Arranmore Road,0.0
+osm_name_Ardpatrick Road,0.0
+osm_name_Argyle Road,0.0
+osm_name_Armagh Road,0.0
+osm_name_Armstrong Street,0.0
+osm_name_Armstrong Walk,0.0
+osm_name_Arnott Street,0.0
+osm_name_Arran Quay,0.0
+osm_name_Arran Road,0.0
+osm_name_Arran Street East,0.0
+osm_name_Arran Street West,0.0
+osm_name_Arranmore Avenue,0.0
+osm_name_Ardmore Park,0.0
+osm_name_Bow Street,0.0
+osm_name_Boyne Road,0.0
+osm_name_Boyne Street,0.0
+osm_name_Brabazon Place,0.0
+osm_name_Brabazon Street,0.0
+osm_name_Bracken's Lane,0.0
+osm_name_Bradogue Court,0.0
+osm_name_Brainboro Terrace,0.0
+osm_name_Braithwaite Street,0.0
+osm_name_Brandon Road,0.0
+osm_name_Beatty's Avenue,0.0
+osm_name_Breakwater Road North,0.0
+osm_name_Breakwater Road South,0.0
+osm_name_Bregia Road,0.0
+osm_name_Bremen Road,0.0
+osm_name_Brendan Road,0.0
+osm_name_Brian Avenue,0.0
+osm_name_Brian Road,0.0
+osm_name_Briarfield Grove,0.0
+osm_name_Briarfield Road,0.0
+osm_name_Briarfield Villas,0.0
+osm_name_Brickfield Drive,0.0
+osm_name_Brandon Terrace,0.0
+osm_name_Blarney Park,0.0
+osm_name_Blessington Court,0.0
+osm_name_Blessington Lane,0.0
+osm_name_Blessington Place,0.0
+osm_name_Blessington Street,0.0
+osm_name_Blood Stoney Road,0.0
+osm_name_Bloomfield Avenue,0.0
+osm_name_Bloomfield Cottages,0.0
+osm_name_Bloomfield Park,0.0
+osm_name_Bluebell Avenue,0.0
+osm_name_Blunden Drive,0.0
+osm_name_Bow Lane West,0.0
+osm_name_Bolton Street,0.0
+osm_name_Bond Drive,0.0
+osm_name_Ailesbury Grove,0.0
+osm_name_Bond Road,0.0
+osm_name_Bond Street,0.0
+osm_name_Bonham Street,0.0
+osm_name_Boston Sidings access road,0.0
+osm_name_Botanic Avenue,0.0
+osm_name_Botanic Avenue Flats,0.0
+osm_name_Botanic Park,0.0
+osm_name_Bow Lane East,0.0
+osm_name_Blythe Avenue,0.0
+osm_name_Brookwood Glen,0.0
+osm_name_Brookwood Grove,0.0
+osm_name_Brookwood Heights,0.0
+osm_name_Brookwood Meadow,0.0
+osm_name_Brookwood Park,0.0
+osm_name_Brookwood Rise,0.0
+osm_name_Brookwood Road,0.0
+osm_name_Broom Bridge,0.0
+osm_name_Broombridge Close,0.0
+osm_name_Broombridge Road,0.0
+osm_name_Brickfield Lane,0.0
+osm_name_Brown Street,0.0
+osm_name_Brown Street South,0.0
+osm_name_Brunswick Place,0.0
+osm_name_Brunswick Street North,0.0
+osm_name_Buckingham Street Lower,0.0
+osm_name_Buckingham Street Upper,0.0
+osm_name_Bulfin Gardens,0.0
+osm_name_Bulfin House,0.0
+osm_name_Bulfin Road,0.0
+osm_name_Bull Alley Street,0.0
+osm_name_Bunratty Avenue,0.0
+osm_name_Ailesbury,0.0
+osm_name_Bride Close,0.0
+osm_name_Bride Road,0.0
+osm_name_Bride Street,0.0
+osm_name_Bridge Avenue,0.0
+osm_name_Bridge Street,0.0
+osm_name_Bridge Street Lower,0.0
+osm_name_Bridge Street Upper,0.0
+osm_name_Bridge of Dublin,0.0
+osm_name_Bridgefoot Street,0.0
+osm_name_Bridgeview Halting Site,0.0
+osm_name_Bridgewater Quay,0.0
+osm_name_Brookwood Drive,0.0
+osm_name_Brighton Gardens,0.0
+osm_name_Brighton Road,0.0
+osm_name_Brighton Square,0.0
+osm_name_Britain Place,0.0
+osm_name_Broadstone,0.0
+osm_name_Brookfield,0.0
+osm_name_Brooklands,0.0
+osm_name_Brookvale Road,0.0
+osm_name_Brookville Crescent,0.0
+osm_name_Ailesbury Drive,0.0
+osm_name_Brookwood Avenue,0.0
+osm_name_Brighton Avenue,0.0
+osm_name_Belcamp Crescent,0.0
+osm_name_Belcamp Lane,0.0
+osm_name_Belclare Crescent,0.0
+osm_name_Belgrave Avenue,0.0
+osm_name_Belgrave Court,0.0
+osm_name_Belgrave Road,0.0
+osm_name_Belgrave Square East,0.0
+osm_name_Belgrave Square North,0.0
+osm_name_Belgrave Square South,0.0
+osm_name_Belgrave Square West,0.0
+osm_name_Blaquiere Bridge,0.0
+osm_name_Belgrove Road,0.0
+osm_name_Belleville Avenue,0.0
+osm_name_Bellevue Avenue,0.0
+osm_name_Bellmayne,0.0
+osm_name_Belltree Avenue,0.0
+osm_name_Airfield Road,0.0
+osm_name_Belmayne Avenue,0.0
+osm_name_Belmayne Park North,0.0
+osm_name_Belmayne Park South,0.0
+osm_name_Belmont Avenue,0.0
+osm_name_Belmont Park,0.0
+osm_name_Belgrove Park,0.0
+osm_name_Beau Park Avenue,0.0
+osm_name_Beau Park Crescent,0.0
+osm_name_Beau Park Mews,0.0
+osm_name_Beau Park Road,0.0
+osm_name_Beaumont Crescent,0.0
+osm_name_Beaumont Grove,0.0
+osm_name_Beaumont Road,0.0
+osm_name_Beauvale Park,0.0
+osm_name_Beaver Row,0.0
+osm_name_Beaver Street,0.0
+osm_name_Bedford Court,0.0
+osm_name_Beechwood Road,0.0
+osm_name_Beech Hill Road,0.0
+osm_name_Beechfield AVenue,0.0
+osm_name_Beechlawn Avenue,0.0
+osm_name_Beechlawn Close,0.0
+osm_name_Beechlawn Green,0.0
+osm_name_Beechlawn Way,0.0
+osm_name_Beechpark Avenue,0.0
+osm_name_Beechwood Avenue Lower,0.0
+osm_name_Beechwood Avenue Upper,0.0
+osm_name_Beechwood Cottages,0.0
+osm_name_Beechwood Park,0.0
+osm_name_Bedford Row,0.0
+osm_name_Berystede,0.0
+osm_name_Bessborough Avenue,0.0
+osm_name_Bettystown Avenue,0.0
+osm_name_Bigger Road,0.0
+osm_name_Binns Bridge,0.0
+osm_name_Bishop Street,0.0
+osm_name_Blackberry Lane,0.0
+osm_name_Blackditch Court,0.0
+osm_name_Blackditch Road,0.0
+osm_name_Blackhall Place,0.0
+osm_name_Belton Park Avenue,0.0
+osm_name_Blackheath Avenue,0.0
+osm_name_Blackheath Court,0.0
+osm_name_Blackheath Drive,0.0
+osm_name_Blackheath Gardens,0.0
+osm_name_Blackheath Grove,0.0
+osm_name_Blackheath Park,0.0
+osm_name_Blackhorse Avenue,0.0
+osm_name_Blackhorse Bridge,0.0
+osm_name_Ailesbury Road,0.0
+osm_name_Blackpitts,0.0
+osm_name_Blackwater Road,0.0
+osm_name_Blackhall Street,0.0
+osm_name_Airfield Park,0.0
+osm_name_Belton Park Road,0.0
+osm_name_Belton Park Villas,0.0
+osm_name_Belvedere Avenue,0.0
+osm_name_Belvedere Court,0.0
+osm_name_Belvedere Place,0.0
+osm_name_Belvidere Court,0.0
+osm_name_Belvidere Road,0.0
+osm_name_Belview,0.0
+osm_name_Belville,0.0
+osm_name_Benbulbin Avenue,0.0
+osm_name_Berkeley Terrace,0.0
+osm_name_Benburb Street,0.0
+osm_name_Beneavin Drive,0.0
+osm_name_Beneavin Road,0.0
+osm_name_Benmadigan Road,0.0
+osm_name_Benson Street,0.0
+osm_name_Beresford Lane,0.0
+osm_name_Beresford Place,0.0
+osm_name_Beresford Street,0.0
+osm_name_Berkeley Avenue,0.0
+osm_name_Berkeley Road,0.0
+osm_name_Berkeley Street,0.0
+osm_name_Benbulbin Road,0.0
+osm_name_Grosvenor Lodge,0.0
+osm_name_Grosvenor Park,0.0
+osm_name_Grosvenor Place,0.0
+osm_name_Addison Road,0.0
+osm_name_Grosvenor Road Roundabout,0.0
+osm_name_Grosvenor Square,0.0
+osm_name_Grove Avenue,0.0
+osm_name_Grove Lane,0.0
+osm_name_Grove Park,0.0
+osm_name_Grove Park Avenue,0.0
+osm_name_Dartmouth Square East,0.0
+osm_name_Grove Road,0.0
+osm_name_Grove Village,0.0
+osm_name_Guild Street,0.0
+osm_name_Guildford Place,0.0
+osm_name_Haddington Lane,0.0
+osm_name_Haddington Place,0.0
+osm_name_Haddington Road,0.0
+osm_name_Haddon Road,0.0
+osm_name_Hagan's Court,0.0
+osm_name_Halliday Road,0.0
+osm_name_Halliday Square,0.0
+osm_name_Grove Park Road,0.0
+osm_name_Greenmount Lane,0.0
+osm_name_Greenmount Office Park,0.0
+osm_name_Greenmount Road,0.0
+osm_name_Greenore Court,0.0
+osm_name_Greenore Terrace,0.0
+osm_name_Greenville Avenue,0.0
+osm_name_Greenville Terrace,0.0
+osm_name_Grenville Lane,0.0
+osm_name_Grenville Parade,0.0
+osm_name_Grenville Street,0.0
+osm_name_Grosvenor Lane,0.0
+osm_name_Griffith Avenue Extension,0.0
+osm_name_Griffith Court,0.0
+osm_name_Griffith Crescent,0.0
+osm_name_Griffith Downs,0.0
+osm_name_Griffith Drive,0.0
+osm_name_Griffith Heights,0.0
+osm_name_Griffith Lawns,0.0
+osm_name_Griffith Parade,0.0
+osm_name_Griffith Road,0.0
+osm_name_Griffith Walk,0.0
+osm_name_Adelaide,0.0
+osm_name_Griffith Avenue,0.0
+osm_name_Hardwicke Lane,0.0
+osm_name_Hardwicke Place,0.0
+osm_name_Hardwicke Street,0.0
+osm_name_Harman Street,0.0
+osm_name_Harmonstown Avenue,0.0
+osm_name_Harmonstown Road,0.0
+osm_name_Harmony Row,0.0
+osm_name_Harold Bridge Court,0.0
+osm_name_Harold Road,0.0
+osm_name_Harold's Cross Cottages,0.0
+osm_name_Halston Street,0.0
+osm_name_Haroldville Avenue,0.0
+osm_name_Harrington Street,0.0
+osm_name_Harrison Row,0.0
+osm_name_Harty Avenue,0.0
+osm_name_Hastings Street,0.0
+osm_name_Hatch Lane,0.0
+osm_name_Hatch Place,0.0
+osm_name_Hatch Street Lower,0.0
+osm_name_Hatch Street Upper,0.0
+osm_name_Havelock Square,0.0
+osm_name_Haverty Road,0.0
+osm_name_Harold's Cross Road,0.0
+osm_name_Hamilton Street,0.0
+osm_name_Hamilton Walk,0.0
+osm_name_Hammond Lane,0.0
+osm_name_Hampstead Avenue,0.0
+osm_name_Hampstead Park,0.0
+osm_name_Hampton,0.0
+osm_name_Hampton Court,0.0
+osm_name_Hampton Green,0.0
+osm_name_Hampton Wood Green,0.0
+osm_name_Hampton Wood Road,0.0
+osm_name_Hanbury Lane,0.0
+osm_name_Hardiman Road,0.0
+osm_name_Hanover Lane,0.0
+osm_name_Hanover Quay,0.0
+osm_name_Hanover Street East,0.0
+osm_name_Hanover Street West,0.0
+osm_name_Harbourmaster Place,0.0
+osm_name_Harcourt Lane,0.0
+osm_name_Harcourt Road,0.0
+osm_name_Harcourt Row,0.0
+osm_name_Harcourt Street,0.0
+osm_name_Harcourt Terrace,0.0
+osm_name_Hardebeck Avenue,0.0
+osm_name_Hannaville Park,0.0
+osm_name_Grace Park Heights,0.0
+osm_name_Grace Park Road,0.0
+osm_name_Gracefield Avenue,0.0
+osm_name_Gracefield Court,0.0
+osm_name_Gracefield Road,0.0
+osm_name_Gracepark Terrace,0.0
+osm_name_Grafton Street,0.0
+osm_name_Granby Lane,0.0
+osm_name_Granby Row,0.0
+osm_name_Grand Canal Place,0.0
+osm_name_Greenmount Avenue,0.0
+osm_name_Grand Canal Quay,0.0
+osm_name_Grand Canal Street Lower,0.0
+osm_name_Grand Canal Street Upper,0.0
+osm_name_Grand Canal View,0.0
+osm_name_Grand Canal Way,0.0
+osm_name_Grand Parade,0.0
+osm_name_Grange Abbey Crescent,0.0
+osm_name_Grange Abbey Grove,0.0
+osm_name_Grange Abbey Road,0.0
+osm_name_Grange Park Avenue,0.0
+osm_name_Grange Park Close,0.0
+osm_name_Grand Canal Plaza,0.0
+osm_name_Glenfarne Road,0.0
+osm_name_Glengarriff Parade,0.0
+osm_name_Glenmalure Park,0.0
+osm_name_Glenmalure Square,0.0
+osm_name_Glenmore Road,0.0
+osm_name_Glentworth Park,0.0
+osm_name_Glenwood Road,0.0
+osm_name_Glin Crescent,0.0
+osm_name_Glin Drive,0.0
+osm_name_Glin Park,0.0
+osm_name_Glin Road,0.0
+osm_name_Grace Park Gardens,0.0
+osm_name_Gloucester Street South,0.0
+osm_name_Glovers Alley,0.0
+osm_name_Godfrey Place,0.0
+osm_name_Golden Bridge,0.0
+osm_name_Golden Lane,0.0
+osm_name_Goldenbridge Avenue,0.0
+osm_name_Goldenbridge Industrial Estate,0.0
+osm_name_Goldsmith Street,0.0
+osm_name_Goose Green Court,0.0
+osm_name_Gordon Place,0.0
+osm_name_Gordon Street,0.0
+osm_name_Gloucester Place North,0.0
+osm_name_Gray Street,0.0
+osm_name_Great Charles Street North,0.0
+osm_name_Great Denmark Street,0.0
+osm_name_Great Strand Street,0.0
+osm_name_Great Western Avenue,0.0
+osm_name_Great Western Square,0.0
+osm_name_Great Western Villas,0.0
+osm_name_Greek Street,0.0
+osm_name_Green Street,0.0
+osm_name_Adelaide Road,0.0
+osm_name_Grange Park Crescent,0.0
+osm_name_Greencastle Parade,0.0
+osm_name_Greencastle Park,0.0
+osm_name_Greencastle Road,0.0
+osm_name_Greendale Avenue,0.0
+osm_name_Greendale Road,0.0
+osm_name_Greenfield Crescent,0.0
+osm_name_Greenfield Park,0.0
+osm_name_Greenlea Drive,0.0
+osm_name_Greenlea Park,0.0
+osm_name_Greenlea Place,0.0
+osm_name_Greenlea Road,0.0
+osm_name_Greencastle Drive,0.0
+osm_name_Grange Park Drive,0.0
+osm_name_Grange Park Green,0.0
+osm_name_Grange Park Grove,0.0
+osm_name_Grange Park Road,0.0
+osm_name_Grange Park View,0.0
+osm_name_Grange Park Walk,0.0
+osm_name_Grange Road,0.0
+osm_name_Grangegorman Lower,0.0
+osm_name_Grangegorman Upper,0.0
+osm_name_Grangemore Avenue,0.0
+osm_name_Grangemore Court,0.0
+osm_name_Gray Square,0.0
+osm_name_Grangemore Drive,0.0
+osm_name_Grangemore Grove,0.0
+osm_name_Grangemore Lawn,0.0
+osm_name_Grangemore Road,0.0
+osm_name_Grant's Row,0.0
+osm_name_Grantham Place,0.0
+osm_name_Grantham Street,0.0
+osm_name_Grattan Bridge,0.0
+osm_name_Grattan Crescent,0.0
+osm_name_Grattan Parade,0.0
+osm_name_Grattan Street,0.0
+osm_name_Grangemore Crescent,0.0
+osm_name_John Field Road,0.0
+osm_name_John McCormack Bridge,0.0
+osm_name_John Street North,0.0
+osm_name_John Street South,0.0
+osm_name_John Street West,0.0
+osm_name_John's Lane West,0.0
+osm_name_Johnson's Place,0.0
+osm_name_Jones's Road,0.0
+osm_name_Josephine Avenue,0.0
+osm_name_Joyce Road,0.0
+osm_name_Hawkins Street,0.0
+osm_name_Keeper Road,0.0
+osm_name_Kelly's Row,0.0
+osm_name_Kempton Avenue,0.0
+osm_name_Kenilworth Lane South,0.0
+osm_name_Kenilworth Lane West,0.0
+osm_name_Kenilworth Manor,0.0
+osm_name_Kenilworth Park,0.0
+osm_name_Kenilworth Road,0.0
+osm_name_Kenilworth Square North,0.0
+osm_name_Kenilworth Square South,0.0
+osm_name_Kenilworth Square West,0.0
+osm_name_Kearn's Place,0.0
+osm_name_Islandbridge,0.0
+osm_name_Islandbridge Court,0.0
+osm_name_Isolde Gardens,0.0
+osm_name_Ivar Street,0.0
+osm_name_Iveagh Gardens,0.0
+osm_name_Iveleary Road,0.0
+osm_name_Iveragh Road,0.0
+osm_name_Ivy Avenue,0.0
+osm_name_James Joyce Bridge,0.0
+osm_name_James Joyce Street,0.0
+osm_name_James Larkin Road,0.0
+osm_name_John F Kennedy Drive,0.0
+osm_name_James Street East,0.0
+osm_name_James Street North,0.0
+osm_name_James's Place East,0.0
+osm_name_James's Street Exit,0.0
+osm_name_Jamestown Avenue,0.0
+osm_name_Jamestown Road,0.0
+osm_name_Jerome Connor Place,0.0
+osm_name_Jervis Lane Lower,0.0
+osm_name_Jervis Lane Upper,0.0
+osm_name_Jervis Street,0.0
+osm_name_John Dillon Street,0.0
+osm_name_James Street,0.0
+osm_name_Killarney Parade,0.0
+osm_name_Killarney Street,0.0
+osm_name_Killary Grove,0.0
+osm_name_Killeen Road,0.0
+osm_name_Killester Avenue,0.0
+osm_name_Killester Court,0.0
+osm_name_Killester Park,0.0
+osm_name_Kilmainham Bank,0.0
+osm_name_Kilmainham Lane,0.0
+osm_name_Kilmore Avenue,0.0
+osm_name_Kenmare Parade,0.0
+osm_name_Kilmore Road,0.0
+osm_name_Kilmorony Close,0.0
+osm_name_Kilnamanagh Road,0.0
+osm_name_Kilshane Drive,0.0
+osm_name_Kilshane Road,0.0
+osm_name_Kilworth Road,0.0
+osm_name_Kimmage Grove,0.0
+osm_name_Kimmage Road Lower,0.0
+osm_name_Kimmage Road West,0.0
+osm_name_Kincora Avenue,0.0
+osm_name_Kincora Court,0.0
+osm_name_Kilmore Close,0.0
+osm_name_Kerlogue Road,0.0
+osm_name_Kevin Street Lower,0.0
+osm_name_Kevin Street Upper,0.0
+osm_name_Khyber Road,0.0
+osm_ref_R812,0.0
+osm_name_Kilbarrack Avenue,0.0
+osm_name_Kilbarrack Grove,0.0
+osm_name_Kilbarrack Road,0.0
+osm_name_Kilbarron Avenue,0.0
+osm_name_Kilbarron Park,0.0
+osm_name_Kilbarron Road,0.0
+osm_name_Killarney Avenue,0.0
+osm_name_Kildare Park,0.0
+osm_name_Kildare Place,0.0
+osm_name_Kildare Road,0.0
+osm_name_Kildare Street,0.0
+osm_name_Kildonan Avenue,0.0
+osm_name_Kildonan Drive,0.0
+osm_name_Kildonan Road,0.0
+osm_name_Kilfenora Drive,0.0
+osm_name_Kilkieran Road,0.0
+osm_name_Killala Road,0.0
+osm_name_Killane Road,0.0
+osm_name_Kilbride Road,0.0
+osm_name_Addison Park,0.0
+osm_name_Herberton Park,0.0
+osm_name_Herberton Road,0.0
+osm_name_Herberton Street,0.0
+osm_name_Herzog Park,0.0
+osm_name_Heuston Square,0.0
+osm_name_Heytesbury Lane,0.0
+osm_name_Heytesbury Street,0.0
+osm_name_Hibernian Avenue,0.0
+osm_name_High Street,0.0
+osm_name_Island Villa,0.0
+osm_name_Highfield Road,0.0
+osm_name_Hill Street,0.0
+osm_name_Hillcourt,0.0
+osm_name_Hillcrest,0.0
+osm_name_Hillcrest Park,0.0
+osm_name_Hogan Avenue,0.0
+osm_name_Hogan Place,0.0
+osm_name_Holles Place,0.0
+osm_name_Holles Row,0.0
+osm_name_Holles Street,0.0
+osm_name_Hollybank Avenue Lower,0.0
+osm_name_Highfield Mews,0.0
+osm_name_Hawthorn Avenue,0.0
+osm_name_Hawthorn Terrace,0.0
+osm_name_Haymarket,0.0
+osm_name_Hazel Park,0.0
+osm_name_Hazel Road,0.0
+osm_name_Hazelbrook Drive,0.0
+osm_name_Hazelbrook Road,0.0
+osm_name_Hazeldene,0.0
+osm_name_Hazelwood Court,0.0
+osm_name_Hazelwood Drive,0.0
+osm_name_Hazelwood Park,0.0
+osm_name_Herberton Apartment underground access ramp,0.0
+osm_name_Hendrick Lane,0.0
+osm_name_Hendrick Place,0.0
+osm_name_Hendrick Street,0.0
+osm_name_Henrietta Place,0.0
+osm_name_Henrietta Street,0.0
+osm_name_Herbert Avenue,0.0
+osm_name_Herbert Lane,0.0
+osm_name_Herbert Park,0.0
+osm_name_Herbert Place,0.0
+osm_name_Herbert Road,0.0
+osm_name_Herbert Street,0.0
+osm_name_Healthfield Road,0.0
+osm_name_IDA Poppintree,0.0
+osm_name_Imaal Road,0.0
+osm_name_Inchicore Road,0.0
+osm_name_Inchicore Terrace South,0.0
+osm_name_Infirmary Road,0.0
+osm_name_Ingram Road,0.0
+osm_name_Inishmaan Road,0.0
+osm_name_Innisfallen Parade,0.0
+osm_name_Innismore,0.0
+osm_name_Inns Quay,0.0
+osm_name_Hollybank Avenue Upper,0.0
+osm_name_Inverness Road,0.0
+osm_name_Iona Avenue,0.0
+osm_name_Iona Crescent,0.0
+osm_name_Iona Drive,0.0
+osm_name_Iona Park,0.0
+osm_name_Iona Road,0.0
+osm_name_Irishtown Road,0.0
+osm_name_Irvine Court,0.0
+osm_name_Island Bridge,0.0
+osm_name_Island Street,0.0
+osm_name_Island View,0.0
+osm_name_Inver Road,0.0
+osm_name_Hollybank Road,0.0
+osm_name_Hollybrook Park,0.0
+osm_name_Hollybrook Road,0.0
+osm_name_Hollytree Square,0.0
+osm_name_Holycross Avenue,0.0
+osm_name_Holyrood Park,0.0
+osm_name_Holywell,0.0
+osm_name_Holywell Avenue,0.0
+osm_name_Holywell Crescent,0.0
+osm_name_Home Farm Park,0.0
+osm_name_Home Farm Road,0.0
+osm_name_Hyde Square,0.0
+osm_name_Hope Avenue,0.0
+osm_name_Horse Fair,0.0
+osm_name_Hospital Road,0.0
+osm_name_Hospital Set-down,0.0
+osm_name_Hotel set-down,0.0
+osm_name_Howth Road,0.0
+osm_name_Howth View Park,0.0
+osm_name_Huband Bridge,0.0
+osm_name_Hume Street,0.0
+osm_name_Huxley Crescent,0.0
+osm_name_Hyde Park,0.0
+osm_name_Home Villas,0.0
+osm_name_EastPoint Business Park,0.0
+osm_name_Eastmoreland Lane,0.0
+osm_name_Eastmoreland Place,0.0
+osm_name_Eaton Road,0.0
+osm_name_Eaton Square,0.0
+osm_name_Ebenezer Terrace,0.0
+osm_name_Eblana Villas,0.0
+osm_name_Eccles Court,0.0
+osm_name_Eccles Place,0.0
+osm_name_Eccles Street,0.0
+osm_name_Glenealy Road,0.0
+osm_name_Eden Quay,0.0
+osm_name_Edenmore Avenue,0.0
+osm_name_Edenmore Crescent,0.0
+osm_name_Edenmore Drive,0.0
+osm_name_Edenmore Gardens,0.0
+osm_name_Edenmore Green,0.0
+osm_name_Edenmore Grove,0.0
+osm_name_Edenmore Park,0.0
+osm_name_Edenvale Road,0.0
+osm_name_Effra Road,0.0
+osm_name_Eglinton Park,0.0
+osm_name_Echlin Street,0.0
+osm_name_Dunard Road,0.0
+osm_name_Dundaniel Road,0.0
+osm_name_Dundrum Road,0.0
+osm_name_Dunluce Road,0.0
+osm_name_Dunmanus Road,0.0
+osm_name_Dunne Street,0.0
+osm_name_Dunree Park,0.0
+osm_name_Dunseverick Road,0.0
+osm_name_Dunsink Avenue,0.0
+osm_name_Dunsink Drive,0.0
+osm_name_East-Link Roundabout,0.0
+osm_name_Dunville Avenue,0.0
+osm_name_Dunville Court,0.0
+osm_name_Durham Road,0.0
+osm_name_Durrow Road,0.0
+osm_name_Eagle Hill Avenue,0.0
+osm_name_Eannafort Road,0.0
+osm_name_Earl Street South,0.0
+osm_name_Earlsfort Terrace,0.0
+osm_name_Earslfort Centre,0.0
+osm_name_East Road,0.0
+osm_name_East Wall Road,0.0
+osm_name_Dunsink Road,0.0
+osm_name_Ely Place,0.0
+osm_name_Emerald Place,0.0
+osm_name_Emerald Square,0.0
+osm_name_Emerald Street,0.0
+osm_name_Emerald Terrace,0.0
+osm_name_Emmet Road,0.0
+osm_name_Emmet Street,0.0
+osm_name_Emor Street,0.0
+osm_name_Emorville Avenue,0.0
+osm_name_Empress Place,0.0
+osm_name_Eglinton Road,0.0
+osm_name_Engine Alley,0.0
+osm_name_Ennafort Park,0.0
+osm_name_Ennafourt Avenue,0.0
+osm_name_Ennafourt Grove,0.0
+osm_name_Ennel Avenue,0.0
+osm_name_Ennis Grove,0.0
+osm_name_Enniskerry Road,0.0
+osm_name_Erne Place,0.0
+osm_name_Erne Place Little,0.0
+osm_name_Erne Place Lower,0.0
+osm_name_Erne Street Lower,0.0
+osm_name_Enaville Avenue,0.0
+osm_name_Eglinton Terrace,0.0
+osm_name_Eglinton Wood,0.0
+osm_name_Elgin Road,0.0
+osm_name_Elizabeth Street,0.0
+osm_name_Ellenfield Road,0.0
+osm_name_Ellis Court,0.0
+osm_name_Ellis Quay,0.0
+osm_name_Ellis Street,0.0
+osm_name_Elm Mount Avenue,0.0
+osm_name_Elm Mount Crescent,0.0
+osm_name_Elm Mount Drive,0.0
+osm_name_Elton Walk,0.0
+osm_name_Elm Mount Park,0.0
+osm_name_Elm Mount Rise,0.0
+osm_name_Elm Mount Road,0.0
+osm_name_Elm Mount View,0.0
+osm_name_Elm Park Green,0.0
+osm_name_Elm Park Terrace,0.0
+osm_name_Elm Road,0.0
+osm_name_Elmpark Avenue,0.0
+osm_name_Elmwood Avenue Lower,0.0
+osm_name_Elton Court,0.0
+osm_name_Elton Drive,0.0
+osm_name_Elm Mount Lawn,0.0
+osm_name_Demesne,0.0
+osm_name_Denzille Lane,0.0
+osm_name_Dermot O'Hurley Avenue,0.0
+osm_name_Derravaragh Road,0.0
+osm_name_Derry Drive,0.0
+osm_name_Derry Park,0.0
+osm_name_Derry Road,0.0
+osm_name_Derrynane Gardens,0.0
+osm_name_Derrynane Parade,0.0
+osm_name_Desmond Street,0.0
+osm_name_Dunard Avenue,0.0
+osm_name_Devery's Lane,0.0
+osm_name_Devlin's Place,0.0
+osm_name_Digges Lane,0.0
+osm_name_Digges Street Upper,0.0
+osm_name_Dillon Place South,0.0
+osm_name_Dingle Road,0.0
+osm_name_Distillery Road,0.0
+osm_name_Dockmill,0.0
+osm_name_Dodder Terrace,0.0
+osm_name_Dollymount Avenue,0.0
+osm_name_Dollymount Grove,0.0
+osm_name_Devenish Road,0.0
+osm_name_Dartmouth Square North,0.0
+osm_name_Dartmouth Square South,0.0
+osm_name_Dartmouth Square West,0.0
+osm_name_Dartry Court,0.0
+osm_name_Dartry Park,0.0
+osm_name_Dartry Road,0.0
+osm_name_Darty Mills,0.0
+osm_name_David Lloyd Riverview,0.0
+osm_name_David Road,0.0
+osm_name_Dawson Street,0.0
+osm_name_De Burgh Road,0.0
+osm_name_Delvin Road,0.0
+osm_name_De Valera Place,0.0
+osm_name_Dean Street,0.0
+osm_name_Dean Swift Bridge,0.0
+osm_name_Dean Swift Road,0.0
+osm_name_Dean Swift Square,0.0
+osm_name_Deanstown Avenue,0.0
+osm_name_Deanstown Green,0.0
+osm_name_Deanstown Road,0.0
+osm_name_Decies Road,0.0
+osm_name_Deerpark Apartments,0.0
+osm_name_Delville Road,0.0
+osm_name_De Courcy Square,0.0
+osm_name_Dowling's Court,0.0
+osm_name_Downpatrick Road,0.0
+osm_name_Dowth Avenue,0.0
+osm_name_Doyles Lane,0.0
+osm_name_Drapier Road,0.0
+osm_name_Drimnagh Road,0.0
+osm_name_Dromard Avenue,0.0
+osm_name_Dromard Road,0.0
+osm_name_Dromard Terrace,0.0
+osm_name_Dromawling Road,0.0
+osm_name_Dollymount Park,0.0
+osm_name_Drumalee Road,0.0
+osm_name_Drumcliffe Drive,0.0
+osm_name_Drumcliffe Road,0.0
+osm_name_Drumcondra Park,0.0
+osm_name_Drumcondra Road Lower,0.0
+osm_name_Drumcondra Road Upper,0.0
+osm_name_Drumfinn Road,0.0
+osm_name_Drury Street,0.0
+osm_name_Dublin City Council Gulistan Terrace Bring Centre,0.0
+osm_name_Admiral Brown Street,0.0
+osm_name_Dufferin Avenue,0.0
+osm_name_Dromnnanane Road,0.0
+osm_name_Dolmen Way,0.0
+osm_name_Dolphin Avenue,0.0
+osm_name_Dolphin Road,0.0
+osm_name_Dolphin's Barn,0.0
+osm_name_Dolphin's Barn Street,0.0
+osm_name_Dominick Lane,0.0
+osm_name_Dominick Street Lower,0.0
+osm_name_Dominick Street Upper,0.0
+osm_name_Domville Court,0.0
+osm_name_Donaghmede Avenue,0.0
+osm_name_Donaghmede Drive,0.0
+osm_name_Dorset Street Upper,0.0
+osm_name_Donnybrook Castle,0.0
+osm_name_Donnybrook Court,0.0
+osm_name_Donnybrook Road,0.0
+osm_name_Donnycarney Road,0.0
+osm_name_Donore Avenue,0.0
+osm_name_Donore Road,0.0
+osm_name_Donovan's Lane,0.0
+osm_name_Doris Street,0.0
+osm_name_Dorset Lane,0.0
+osm_name_Dorset Place,0.0
+osm_name_Dorset Street Lower,0.0
+osm_name_Donaghmede Road,0.0
+osm_name_Friars Lane,0.0
+osm_name_Friary Avenue,0.0
+osm_name_Fumbally Lane,0.0
+osm_name_Furry Park Road,0.0
+osm_name_Furze Road,0.0
+osm_name_Galtymore Close,0.0
+osm_name_Galtymore Drive,0.0
+osm_name_Galtymore Park,0.0
+osm_name_Galtymore Road,0.0
+osm_name_Gandon Close,0.0
+osm_name_Erne Street Upper,0.0
+osm_name_Garden Lane,0.0
+osm_name_Garden Terrace,0.0
+osm_name_Gardiner Lane,0.0
+osm_name_Gardiner Place,0.0
+osm_name_Gardiner Row,0.0
+osm_name_Gardiner Street Lower,0.0
+osm_name_Gardiner Street Middle,0.0
+osm_name_Gardiner Street Upper,0.0
+osm_name_Garrynure,0.0
+osm_name_Garryowen Road,0.0
+osm_name_Gartan Avenue,0.0
+osm_name_Garda Terrace,0.0
+osm_name_Foxfield Avenue,0.0
+osm_name_Foxfield Crescent,0.0
+osm_name_Foxfield Green,0.0
+osm_name_Foxfield Grove,0.0
+osm_name_Foxfield Heights,0.0
+osm_name_Foxfield Lawn,0.0
+osm_name_Foxfield Park,0.0
+osm_name_Foxfield Road,0.0
+osm_name_Foxfield Road Extension,0.0
+osm_name_Foxfield St. John,0.0
+osm_name_Foxhill Avenue,0.0
+osm_name_Frenchman's Lane,0.0
+osm_name_Foxhill Drive,0.0
+osm_name_Foxhill Green,0.0
+osm_name_Foxhill Grove,0.0
+osm_name_Foxhill Lawn,0.0
+osm_name_Foxhill Park,0.0
+osm_name_Foyle Road,0.0
+osm_name_Frank Sherwin Bridge,0.0
+osm_name_Frankfort Avenue,0.0
+osm_name_Frankfort Cottages,0.0
+osm_name_Frankfort Court,0.0
+osm_name_Frederick Lane North,0.0
+osm_name_Foxhill Crescent,0.0
+osm_name_Glasnevin Avenue,0.0
+osm_name_Glasnevin Bridge,0.0
+osm_name_Glasnevin Downs,0.0
+osm_name_Glasnevin Drive,0.0
+osm_name_Glasnevin Hill,0.0
+osm_name_Glasnevin Park,0.0
+osm_name_Glaunsharoon,0.0
+osm_name_Glenaan Road,0.0
+osm_name_Glenalure Day Hospital,0.0
+osm_name_Glenarm Avenue,0.0
+osm_name_Garville Avenue,0.0
+osm_name_Glenaulin Drive,0.0
+osm_name_Glenayle Road,0.0
+osm_name_Glenayr Road,0.0
+osm_name_Glenbeag Crannton,0.0
+osm_name_Glenbeigh Road,0.0
+osm_name_Glencar Road,0.0
+osm_name_Glencarrig Court,0.0
+osm_name_Glencloy Road,0.0
+osm_name_Glencorp Road,0.0
+osm_name_Glendalough Road,0.0
+osm_name_Glendun Road,0.0
+osm_name_Glenaulin,0.0
+osm_name_Garville Avenue Upper,0.0
+osm_name_Garville Lane,0.0
+osm_name_Gate,0.0
+osm_name_Gateway Avenue,0.0
+osm_name_Gateway Crescent,0.0
+osm_name_George's Hill,0.0
+osm_name_George's Lane,0.0
+osm_name_George's Place,0.0
+osm_name_George's Quay,0.0
+osm_name_Geraldine Street,0.0
+osm_name_Gilbert Road,0.0
+osm_name_Glasnamana Road,0.0
+osm_name_Gilford Court,0.0
+osm_name_Gilford Drive,0.0
+osm_name_Gilford Pines,0.0
+osm_name_Gilford Road,0.0
+osm_name_Glandore Road,0.0
+osm_name_Glasanaon Park,0.0
+osm_name_Glasanaon Road,0.0
+osm_name_Glasaree Road,0.0
+osm_name_Glasilawn Avenue,0.0
+osm_name_Glasilawn Road,0.0
+osm_name_Glaslynn Apartments,0.0
+osm_name_Gilford Avenue,0.0
+osm_name_Fairview Strand,0.0
+osm_name_Fairview Terrace,0.0
+osm_name_Faith Avenue,0.0
+osm_name_Falcarragh Road,0.0
+osm_name_Farney Park,0.0
+osm_name_Farnham Drive,0.0
+osm_name_Fassaugh Avenue,0.0
+osm_name_Father Matthew Square,0.0
+osm_name_Faughart Road,0.0
+osm_name_Faussagh Avenue,0.0
+osm_name_Fownes Street Upper,0.0
+osm_name_Fenian Street,0.0
+osm_name_Fergus Road,0.0
+osm_name_Ferguson Road,0.0
+osm_name_Ferndale Avenue,0.0
+osm_name_Ferns Road,0.0
+osm_name_Fernvale Drive,0.0
+osm_name_Ferrard Road,0.0
+osm_name_Ferrycarrig Drive,0.0
+osm_name_Ferryman's Crossing,0.0
+osm_name_Fertullagh Road,0.0
+osm_name_Findlater Place,0.0
+osm_name_Faussagh Road,0.0
+osm_name_Erne Terrace (Front),0.0
+osm_name_Erne Terrace (Rear),0.0
+osm_name_Errigal Gardens,0.0
+osm_name_Errigal Road,0.0
+osm_name_Erris Road,0.0
+osm_name_Esker Villas,0.0
+osm_name_Esmond Avenue,0.0
+osm_name_Essex Gate,0.0
+osm_name_Essex Quay,0.0
+osm_name_Essex Street East,0.0
+osm_name_Essex Street West,0.0
+osm_name_Fairview Mews,0.0
+osm_name_Eustace Bridge,0.0
+osm_name_Eustace Street,0.0
+osm_name_Exchange Street Lower,0.0
+osm_name_Exchange Street Upper,0.0
+osm_name_Exchequer Street,0.0
+osm_name_Fade Street,0.0
+osm_name_Fairfield Park,0.0
+osm_name_Fairfield Road,0.0
+osm_name_Fairview,0.0
+osm_name_Fairview Avenue Lower,0.0
+osm_name_Fairview Green,0.0
+osm_name_Estate Cottages,0.0
+osm_name_Fitzwilliam Street Lower,0.0
+osm_name_Fitzwilliam Street Upper,0.0
+osm_name_Fitzwilliam Way,0.0
+osm_name_Fleet Street,0.0
+osm_name_Fleming Road,0.0
+osm_name_Fleming's Place,0.0
+osm_name_Florence Street,0.0
+osm_name_Foley Street,0.0
+osm_name_Fontenoy Street,0.0
+osm_name_Forbes Lane,0.0
+osm_name_Finglas Business Centre,0.0
+osm_name_Forestwood Close,0.0
+osm_name_Fortescue Lane,0.0
+osm_name_Fortfield Court,0.0
+osm_name_Fortfield Park,0.0
+osm_name_Fortfield Road,0.0
+osm_name_Fortfield Terrace,0.0
+osm_name_Forth Road,0.0
+osm_name_Fortview Avenue,0.0
+osm_name_Foster Place,0.0
+osm_name_Foster Terrace,0.0
+osm_name_Fourth Avenue,0.0
+osm_name_Forbes Street,0.0
+osm_name_Finglas Bypass,0.0
+osm_name_Finglas Park,0.0
+osm_name_Finglas Place,0.0
+osm_name_Finglas Road,0.0
+osm_name_Finglaswood Road,0.0
+osm_name_Finn Eber Fort,0.0
+osm_name_Finn Street,0.0
+osm_name_First Avenue,0.0
+osm_name_Fishamble Street,0.0
+osm_name_Fitzgerald Street,0.0
+osm_name_Fitzgibbon Lane,0.0
+osm_name_Fitzwilliam Street,0.0
+osm_name_Fitzmaurice Avenue,0.0
+osm_name_Fitzpatrick Cottages,0.0
+osm_name_Fitzroy Avenue,0.0
+osm_name_Fitzwilliam Court,0.0
+osm_name_Fitzwilliam Lane,0.0
+osm_name_Fitzwilliam Place,0.0
+osm_name_Fitzwilliam Place North,0.0
+osm_name_Fitzwilliam Square East,0.0
+osm_name_Fitzwilliam Square North,0.0
+osm_name_Fitzwilliam Square South,0.0
+osm_name_Fitzwilliam Square West,0.0
+osm_name_Fitzgibbon Street,0.0
