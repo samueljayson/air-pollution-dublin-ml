@@ -36,7 +36,7 @@ The models were able to predict street-level pollution patterns and identify hig
 
 ## Repository Structure
 ```text
-data/
-notebooks/
-images/
+Data/
+Notebooks/
+Images/
 README.md
